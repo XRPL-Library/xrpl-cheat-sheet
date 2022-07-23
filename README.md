@@ -8,6 +8,15 @@
 
 </div>
 
+## ➼ Introduction 
+
+ 
+This repository is a collection of projects, links and useful resources related to XRP Ledger.
+README.md file is derived from [xrpl-cheat-sheet.json]("./xrpl-cheat-sheet.json"), one can directly use this JSON file to integrate with their application.
+If you want to add your project, refer to the JSON file mentioned above and create a pull request.
+
+ > Note: This repository is being used to provide JSON data to [XPT Browser Extension](https://xptxrpl.com/#/)
+
 ## ➼ Explorers 
 
 > Tools to display information related to XRP Ledger
@@ -460,5 +469,5 @@ Yyolk's Awesome XRPL List | [Link](https://github.com/yyolk/awesome-xrpl#readme)
 
 ---
 
-## Credits 
+## ➼ Credits 
 
