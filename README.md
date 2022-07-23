@@ -3,10 +3,12 @@
  A curated list of everything awesome going on in the XRP Ledger.
 
 ## Explorers
+___
 
 > Tools to display information related to XRP Ledger
 
 ### All Purpose
+___
 
 Name | Link 
 --- | ---
@@ -18,6 +20,7 @@ Livenet XRPL Org | ![Link](https://livenet.xrpl.org/)
 XRPLF Ledger Explorer | ![Link](https://explorer.xrplf.org/)
 XRPL ODL Rosetta | ![Link](https://threexrp.dev/)
 ### Dex
+___
 
 Name | Link 
 --- | ---
@@ -27,12 +30,14 @@ XRP Toolkit | ![Link](https://www.xrptoolkit.com/)
 XDEX | ![Link](https://xdex.com/)
 GateHub | ![Link](https://gatehub.net/markets/)
 ### Validators
+___
 
 Name | Link 
 --- | ---
 XRPScan | ![Link](https://xrpscan.com/validators/)
 XRPL Org | ![Link](https://livenet.xrpl.org/network/validators)
 ### Fungible Tokens
+___
 
 Name | Link 
 --- | ---
@@ -41,19 +46,23 @@ XRPL Services | ![Link](https://xrpl.services/tokens/s)
 XRPL Org | ![Link](https://livenet.xrpl.org/tokens/)
 OnTheDex.live | ![Link](https://onthedex.live/)
 ### XLS-14
+___
 
 Name | Link 
 --- | ---
 Bithomp | ![Link](https://bithomp.com/)
 ### XLS-20
+___
 
 Name | Link 
 --- | ---
 ## Nodes
+___
 
 > The core server that powers the XRP Ledger.
 
 ### Utilities
+___
 
 Name | Link 
 --- | ---
@@ -66,12 +75,15 @@ Rippled on Rasberry Pi 4 | ![Link](https://write.as/dvilela/running-an-xrpl-vali
 OtherServices - Ripple Validator Guide | ![Link](https://github.com/OtterServices/RippledValidatorGuide/blob/main/XRP_Ledger_Linux_Validator_Initialization_Guide_V1%20(2).pdf)
 Rippled Server Broadcasts | ![Link](https://groups.google.com/g/ripple-server)
 ## Dev Utilities
+___
 
 > Powerful development tools to assist you with your unique ideas.
 
 ### Libraries
+___
 
 #### Javascript
+___
 
 Name | Link 
 --- | ---
@@ -85,6 +97,7 @@ Ripple Restful APIs - [DEV Frozen] | ![Link](https://github.com/ripple/ripple-re
 Wallet Desktop client for vue-electron | ![Link](https://github.com/devjin0617/ripplectron)
 Develop WebApp Using VueJS + Webpack (XRP) | ![Link](https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c)
 #### Python
+___
 
 Name | Link 
 --- | ---
@@ -96,29 +109,34 @@ CoinClub Framework [XRP] Python | ![Link](https://github.com/QCloud-DevOps/CoinC
 Federation Python | ![Link](https://github.com/miracle2k/ripple-federation-python)
 XRPL Tagged Address Codec | ![Link](https://github.com/xrp-community/xrpl-tagged-address-codec)
 #### C++
+___
 
 Name | Link 
 --- | ---
 Ripple Lib | ![Link](https://github.com/ripple/ripple-libpp)
 #### Golang
+___
 
 Name | Link 
 --- | ---
 Go Package to Interact with XRPL | ![Link](https://github.com/rubblelabs/ripple)
 XRPL Transactions | ![Link](https://github.com/rubblelabs/tx)
 #### JAVA
+___
 
 Name | Link 
 --- | ---
 XRPL Java SDK | ![Link](https://github.com/XRPLF/xrpl4j)
 XUMM JAVA SDK | ![Link](https://github.com/francisrosario/xumm4j)
 #### PHP
+___
 
 Name | Link 
 --- | ---
 XUMM PHP | ![Link](https://packagist.org/packages/xrpl/xumm-sdk-php)
 Federation PHP | ![Link](https://github.com/ripple-unmaintained/federation-php)
 #### Ruby
+___
 
 Name | Link 
 --- | ---
@@ -126,26 +144,31 @@ XRPL Ruby Library | ![Link](https://github.com/DevNullProd/XRBP)
 Ripple Ruby Library | ![Link](https://github.com/kevinejohn/ripple-lib-rpc-ruby/)
 Ripple Rails - by singpolyma | ![Link](https://github.com/singpolyma/ripple-rails/)
 #### .NET
+___
 
 Name | Link 
 --- | ---
 XUMM.NET.SDK | ![Link](https://www.nuget.org/packages/XUMM.NET.SDK)
 #### Haskell
+___
 
 Name | Link 
 --- | ---
 Ripple Client Protocol Haskell Implementation | ![Link](https://github.com/singpolyma/ripple-haskell/)
 #### Swift
+___
 
 Name | Link 
 --- | ---
 Ripple Kit IOS | ![Link](https://github.com/xasos/RippleKit)
 #### Rust
+___
 
 Name | Link 
 --- | ---
 XRPL Rust Package | ![Link](https://github.com/sephynox/xrpl-rust)
 ### APIs
+___
 
 Name | Link 
 --- | ---
@@ -156,6 +179,7 @@ Ripple Data API V2 - [Depreceated] | ![Link](https://github.com/ripple/rippled-h
 Ripple Charts API - [Depreceated] | ![Link](https://github.com/ripple/ripple-data-api)
 Ripple Blobvault V1 - Server for storing persistent data for Ripple clients | ![Link](https://github.com/ripple/ripple-blobvault)
 ### Miscellaneous
+___
 
 Name | Link 
 --- | ---
@@ -171,10 +195,12 @@ Scrape xrpl.org pages to determine the tx types & schema | ![Link](https://runki
 Ripple checkout - A simple widget code to pay with XRP | ![Link](https://github.com/emschwartz/ripple-donate-widget)
 X-Address Information | ![Link](https://xrpaddress.info/)
 ## Bots
+___
 
 > An autonomous programme that can interact with XRP Ledger.
 
 ### Twitter
+___
 
 Name | Link 
 --- | ---
@@ -183,70 +209,86 @@ XRPL ODL Tracker | ![Link](https://twitter.com/UtilityScan)
 XRPL Intelligence | ![Link](https://twitter.com/xrp1ntel)
 CSC Alerts | ![Link](https://twitter.com/CasinoCoinAlert)
 ### Discord
+___
 
 Name | Link 
 --- | ---
 ### AMM
+___
 
 Name | Link 
 --- | ---
 ## Hooks
+___
 
 > Smart Contracts on XRP Ledger
 
 ### Docs
+___
 
 Name | Link 
 --- | ---
 XRPL Hooks Documentation | ![Link](https://xrpl-hooks.readme.io/docs/introduction)
 ## Sidechains
+___
 
 > A sidechain is an independent ledger with its own consensus algorithm and transaction types and rules. It acts as its own blockchain.
 
 ### Docs
+___
 
 Name | Link 
 --- | ---
 Federated Sidechains | ![Link](https://xrpl.org/federated-sidechains.html)
 A vision for Federated Sidechains | ![Link](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o)
 ## Projects
+___
 
 > Programmes/Companies/Softwares actively working on/utilising XRP Ledger.
 
 ### Layer Two
+___
 
 Name | Link 
 --- | ---
 Evernode | ![Link](https://evernode.wordpress.com/)
 ### Gaming
+___
 
 Name | Link 
 --- | ---
 Ledger City | ![Link](https://ledgercitygame.com/)
 ### Charity
+___
 
 Name | Link 
 --- | ---
 ### Browser Extensions
+___
 
 Name | Link 
 --- | ---
 XPT - XRPL Portfolio Tracker | ![Link](https://xptxrpl.com/)
 ### Payments
+___
 
 Name | Link 
 --- | ---
 PayString | ![Link](https://paystring.org/)
 ### Wallets
+___
 
 #### Custodial
+___
 
 Name | Link 
 --- | ---
 Uphold | ![Link](https://uphold.com/)
 #### Non-Custodial
+___
 
 ##### Software
+___
 
 Name | Link 
 --- | ---
@@ -254,17 +296,20 @@ XUMM | ![Link](https://xumm.app/)
 GemWallet | ![Link](https://gemwallet.app/docs/user-guide/introduction)
 Solo Wallet | ![Link](https://www.sologenic.com/ecosystem/solo-wallet)
 ##### Hardware
+___
 
 Name | Link 
 --- | ---
 Ledger | ![Link](https://www.ledger.com/)
 Trezor | ![Link](https://trezor.io/)
 ##### Paper
+___
 
 Name | Link 
 --- | ---
 Paper Account Generator | ![Link](https://www.xrpaddress.org/)
 ### Software As A Service
+___
 
 Name | Link 
 --- | ---
@@ -275,10 +320,12 @@ Block Trac - Monitor your blockchain account | ![Link](https://blocktr.ac/)
 XRPhone - Pay invoices over phone | ![Link](https://www.xrphone.app/)
 Ripple ODL - uses XRPL | ![Link](https://ripple.com/solutions/crypto-liquidity/)
 ## Dev Community
+___
 
 > Ways to interact with like minded people who love XRP Ledger.
 
 ### Links
+___
 
 Name | Link 
 --- | ---
@@ -287,16 +334,19 @@ Twitter | ![Link]()
 Dev.to | ![Link](https://dev.to/ripplexdev)
 XRPL Ideas Discussion | ![Link](https://github.com/intelliot/xrpl-ideas/discussions)
 ## Miscellaneous
+___
 
 > Some more useful resources you might want to look at.
 
 ### Cross Chains
+___
 
 Name | Link 
 --- | ---
 Wanchain | ![Link](https://www.wanchain.org/)
 Flare | ![Link](https://flare.xyz/)
 ### Resources
+___
 
 Name | Link 
 --- | ---
