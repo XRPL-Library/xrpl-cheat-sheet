@@ -2,17 +2,43 @@ const fs = require("fs");
 const xrplSheetJson = require("./xrpl-cheat-sheet.json");
 
 const main = () => {
+
+    // Markdown things
     const nL = `\n\n`;
-    let readme_MD_data = `# XRP Ledger Cheat Sheet${nL} A curated list of all the awesome things happening in XRP Ledger.${nL}`;
+    let hash = `#`;
 
-    // Adding Data from JSON file
-    Object.keys(xrplSheetJson).map(topic => {
-        readme_MD_data += `## ${topic}${nL}`;
-    });
+    const convertToMd = (data = null, deep = 1) => {
+        if (!data) {
+            return "";
+        };
 
-    fs.writeFileSync("README.md", readme_MD_data);
-    console.log(readme_MD_data)
+        let currentString = "";
 
+        if (Array.isArray(data)) {
+            data.forEach(row => {
+                if (row.name) {
+                    currentString += `![${row.name}](${row.link})${nL}`
+                }
+            });
+        }
+        else if (typeof data === "object") {
+            for (const topic in data) {
+                if (topic === "description") {
+                    currentString += `> ${data[topic]}${nL}`;
+                }
+                else {
+                    currentString += `${hash.repeat(deep)} ${topic}${nL}` + convertToMd(data[topic], deep + 1);
+                }
+            }
+        };
+
+        return currentString;
+    };
+
+    let MD_DATA = `${hash} XRP Ledger Cheat Sheet${nL} A curated list of everything awesome going on in the XRP Ledger.${nL}`
+    MD_DATA += convertToMd(xrplSheetJson, 2);
+
+    fs.writeFileSync("README.md", MD_DATA);
 };
 
 
