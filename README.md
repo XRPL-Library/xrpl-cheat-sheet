@@ -1,4 +1,4 @@
-<div style="align:center;text-align:center;font-size:30px;">
+<div align="center" style="font-size:30px;">
 
  # XRP Ledger Cheat Sheet
 
