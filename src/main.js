@@ -22,8 +22,7 @@ const main = () => {
                     currentString += `${row.name} | [Link](${row.link})\n`
                 }
             });
-
-            // currentString = `${nL}<div align="center" style="text-align:center;">${nL}${currentString}${nL}</div>${nL}`;
+            currentString += nL + "---" + nL;
         }
         else if (typeof data === "object") {
             for (const topic in data) {
