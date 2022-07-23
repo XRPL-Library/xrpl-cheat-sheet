@@ -6,7 +6,7 @@ const main = () => {
     // Markdown things
     const nL = `\n\n`;
     let hash = `#`;
-    const bullet_symbols = ["➼", "•", "◦", "·", "⁃"];
+    const bullet_symbols = ["➼", "♦", "◦", "·", "⁃"];
 
     const convertToMd = (data = null, deep = 1) => {
         if (!data) {
@@ -39,13 +39,7 @@ const main = () => {
         return currentString;
     };
 
-    let MD_DATA = `<style>
-    table {
-        width: 100%;
-    }
-</style>
-
-<div align="center" style="font-size:30px;">${nL} ${hash} XRP Ledger Cheat Sheet${nL} A curated list of everything related to the XRP Ledger.${nL}</div>${nL}`
+    let MD_DATA = `<div align="center" style="font-size:30px;">${nL} ${hash} XRP Ledger Cheat Sheet${nL} A curated list of everything related to the XRP Ledger.${nL}</div>${nL}`
     MD_DATA += convertToMd(xrplSheetJson, 2);
 
     fs.writeFileSync("README.md", MD_DATA);

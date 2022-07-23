@@ -1,7 +1,3 @@
-<style>
-table {width: 100%}
-</style>
-
 <div align="center" style="font-size:30px;">
 
  # XRP Ledger Cheat Sheet
@@ -14,7 +10,7 @@ table {width: 100%}
 
 > Tools to display information related to XRP Ledger
 
-### • All Purpose 
+### ♦ All Purpose 
 
 
 
@@ -33,7 +29,7 @@ XRPL ODL Rosetta | [Link](https://threexrp.dev/)
 
 </div>
 
-### • Dex 
+### ♦ Dex 
 
 
 
@@ -50,7 +46,7 @@ GateHub | [Link](https://gatehub.net/markets/)
 
 </div>
 
-### • Validators 
+### ♦ Validators 
 
 
 
@@ -64,7 +60,7 @@ XRPL Org | [Link](https://livenet.xrpl.org/network/validators)
 
 </div>
 
-### • Fungible Tokens 
+### ♦ Fungible Tokens 
 
 
 
@@ -80,7 +76,7 @@ OnTheDex.live | [Link](https://onthedex.live/)
 
 </div>
 
-### • XLS-14 
+### ♦ XLS-14 
 
 
 
@@ -93,7 +89,7 @@ Bithomp | [Link](https://bithomp.com/)
 
 </div>
 
-### • XLS-20 
+### ♦ XLS-20 
 
 
 
@@ -109,7 +105,7 @@ Bithomp | [Link](https://bithomp.com/)
 
 > The core server that powers the XRP Ledger.
 
-### • Utilities 
+### ♦ Utilities 
 
 
 
@@ -133,7 +129,7 @@ Rippled Server Broadcasts | [Link](https://groups.google.com/g/ripple-server)
 
 > Powerful development tools to assist you with your unique ideas.
 
-### • Libraries 
+### ♦ Libraries 
 
 #### ◦ Javascript 
 
@@ -297,7 +293,7 @@ XRPL Rust Package | [Link](https://github.com/sephynox/xrpl-rust)
 
 </div>
 
-### • APIs 
+### ♦ APIs 
 
 
 
@@ -315,7 +311,7 @@ Ripple Blobvault V1 - Server for storing persistent data for Ripple clients | [L
 
 </div>
 
-### • Miscellaneous 
+### ♦ Miscellaneous 
 
 
 
@@ -342,7 +338,7 @@ X-Address Information | [Link](https://xrpaddress.info/)
 
 > An autonomous programme that can interact with XRP Ledger.
 
-### • Twitter 
+### ♦ Twitter 
 
 
 
@@ -358,7 +354,7 @@ CSC Alerts | [Link](https://twitter.com/CasinoCoinAlert)
 
 </div>
 
-### • Discord 
+### ♦ Discord 
 
 
 
@@ -370,7 +366,7 @@ CSC Alerts | [Link](https://twitter.com/CasinoCoinAlert)
 
 </div>
 
-### • AMM 
+### ♦ AMM 
 
 
 
@@ -386,7 +382,7 @@ CSC Alerts | [Link](https://twitter.com/CasinoCoinAlert)
 
 > Smart Contracts on XRP Ledger
 
-### • Docs 
+### ♦ Docs 
 
 
 
@@ -403,7 +399,7 @@ XRPL Hooks Documentation | [Link](https://xrpl-hooks.readme.io/docs/introduction
 
 > A sidechain is an independent ledger with its own consensus algorithm and transaction types and rules. It acts as its own blockchain.
 
-### • Docs 
+### ♦ Docs 
 
 
 
@@ -421,7 +417,7 @@ A vision for Federated Sidechains | [Link](https://dev.to/ripplexdev/a-vision-fo
 
 > Programmes/Companies/Softwares actively working on/utilising XRP Ledger.
 
-### • Layer Two 
+### ♦ Layer Two 
 
 
 
@@ -434,7 +430,7 @@ Evernode | [Link](https://evernode.wordpress.com/)
 
 </div>
 
-### • Gaming 
+### ♦ Gaming 
 
 
 
@@ -447,7 +443,7 @@ Ledger City | [Link](https://ledgercitygame.com/)
 
 </div>
 
-### • Charity 
+### ♦ Charity 
 
 
 
@@ -459,7 +455,7 @@ Ledger City | [Link](https://ledgercitygame.com/)
 
 </div>
 
-### • Browser Extensions 
+### ♦ Browser Extensions 
 
 
 
@@ -472,7 +468,7 @@ XPT - XRPL Portfolio Tracker | [Link](https://xptxrpl.com/)
 
 </div>
 
-### • Payments 
+### ♦ Payments 
 
 
 
@@ -485,7 +481,7 @@ PayString | [Link](https://paystring.org/)
 
 </div>
 
-### • Wallets 
+### ♦ Wallets 
 
 #### ◦ Custodial 
 
@@ -544,7 +540,7 @@ Paper Account Generator | [Link](https://www.xrpaddress.org/)
 
 </div>
 
-### • Software As A Service 
+### ♦ Software As A Service 
 
 
 
@@ -566,7 +562,7 @@ Ripple ODL - uses XRPL | [Link](https://ripple.com/solutions/crypto-liquidity/)
 
 > Ways to interact with like minded people who love XRP Ledger.
 
-### • Links 
+### ♦ Links 
 
 
 
@@ -586,7 +582,7 @@ XRPL Ideas Discussion | [Link](https://github.com/intelliot/xrpl-ideas/discussio
 
 > Some more useful resources you might want to look at.
 
-### • Cross Chains 
+### ♦ Cross Chains 
 
 
 
@@ -600,7 +596,7 @@ Flare | [Link](https://flare.xyz/)
 
 </div>
 
-### • Resources 
+### ♦ Resources 
 
 
 
