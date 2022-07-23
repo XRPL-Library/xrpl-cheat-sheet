@@ -1,7 +1,5 @@
 <style>
-    table {
-        width: 100%;
-    }
+table {width: 100%}
 </style>
 
 <div align="center" style="font-size:30px;">
