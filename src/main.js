@@ -28,7 +28,7 @@ const main = () => {
                     currentString += `> ${data[topic]}${nL}`;
                 }
                 else {
-                    currentString += `${hash.repeat(deep)} ${topic}\n___${nL}` + convertToMd(data[topic], deep + 1);
+                    currentString += hash.repeat(deep) + " ` " + topic + " `" + nL + convertToMd(data[topic], deep + 1);
                 }
             }
         };
