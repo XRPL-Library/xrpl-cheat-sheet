@@ -460,3 +460,5 @@ Yyolk's Awesome XRPL List | [Link](https://github.com/yyolk/awesome-xrpl#readme)
 
 ---
 
+## Credits 
+
