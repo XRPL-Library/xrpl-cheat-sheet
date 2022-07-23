@@ -28,6 +28,8 @@ jobs:
         cache: 'npm'
     - run: npm i
     - run: npm run start
+    - run: git config --global user.name 'Tushar Pardhe'
+    - run: git config --global user.email 'TusharPardhe@users.noreply.github.com'
     - run: git add .
     - run: git commit -m "Update README.md"
     - run: git push
