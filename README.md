@@ -11,9 +11,18 @@
 ## ➼ Introduction 
 
  
+###  ♦ General 
+
 This repository is a collection of projects, links and useful resources related to XRP Ledger.
 README.md file is derived from [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json), one can directly use this JSON file to integrate with their application.
-If you want to add your project, refer to the JSON file mentioned above and create a pull request.
+
+###  ♦ Add your project! 
+
+ 1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) 
+ 2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com" }. 
+ 3. After successful merge your README.md file will auto update, and your project will be visible.
+
+ > [Bonus]: This list will be used in "Useful Links/Projects" Section of [XPT Browser Extension](https://xptxrpl.com/).
 
 ## ➼ Explorers 
 
