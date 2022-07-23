@@ -383,7 +383,7 @@ Uphold | [Link](https://uphold.com/)
 
 #### ★ Non-Custodial 
 
-##### · Software 
+##### ‣ Software 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -394,7 +394,7 @@ Solo Wallet | [Link](https://www.sologenic.com/ecosystem/solo-wallet)
 
 ---
 
-##### · Hardware 
+##### ‣ Hardware 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -404,7 +404,7 @@ Trezor | [Link](https://trezor.io/)
 
 ---
 
-##### · Paper 
+##### ‣ Paper 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
