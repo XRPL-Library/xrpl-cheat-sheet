@@ -6,6 +6,7 @@ const main = () => {
     // Markdown things
     const nL = `\n\n`;
     let hash = `#`;
+    const bullet_symbols = ["➼", "•", "◦", "·", "⁃"];
 
     const convertToMd = (data = null, deep = 1) => {
         if (!data) {
@@ -28,7 +29,7 @@ const main = () => {
                     currentString += `> ${data[topic]}${nL}`;
                 }
                 else {
-                    currentString += `${hash.repeat(deep)} ${topic} ${nL}` + convertToMd(data[topic], deep + 1);
+                    currentString += `${hash.repeat(deep)} ${bullet_symbols[deep - 2]} ${topic} ${nL}` + convertToMd(data[topic], deep + 1);
                 }
             }
         };
