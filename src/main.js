@@ -15,9 +15,10 @@ const main = () => {
         let currentString = "";
 
         if (Array.isArray(data)) {
+            currentString += `Name | Link \n--- | ---\n`
             data.forEach(row => {
                 if (row.name) {
-                    currentString += `![${row.name}](${row.link})${nL}`
+                    currentString += `${row.name} | ![Link](${row.link})\n`
                 }
             });
         }
