@@ -39,7 +39,7 @@ const main = () => {
     };
 
     let header = `<div align="center" style="font-size:30px;">${nL} ${hash} XRP Ledger Cheat Sheet${nL} A curated list of everything related to the XRP Ledger.${nL}<img src="./src/XRPL.svg" style="padding:10px" onclick=" "/>${nL}</div>${nL}`;
-    let intro = `${hash.repeat(2)} ${bullet_symbols[0]} Introduction ${nL} \nThis repository is a collection of projects, links and useful resources related to XRP Ledger.\nREADME.md file is derived from [xrpl-cheat-sheet.json]("./xrpl-cheat-sheet.json"), one can directly use this JSON file to integrate with their application.\nIf you want to add your project, refer to the JSON file mentioned above and create a pull request.${nL} > Note: This repository is being used to provide JSON data to [XPT Browser Extension](https://xptxrpl.com/#/)${nL}`
+    let intro = `${hash.repeat(2)} ${bullet_symbols[0]} Introduction ${nL} \nThis repository is a collection of projects, links and useful resources related to XRP Ledger.${nL}README.md file is derived from [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json), one can directly use this JSON file to integrate with their application.${nL}If you want to add your project, refer to the JSON file mentioned above and create a pull request.${nL} > Note: This repository is being used to provide JSON data to [XPT Browser Extension](https://xptxrpl.com/#/)${nL}`
     let credits = `${hash.repeat(2)} ${bullet_symbols[0]} Credits ${nL}`;
 
     let MD_DATA = header + intro + convertToMd(xrplSheetJson, 2) + credits;
