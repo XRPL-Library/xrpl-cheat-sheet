@@ -1,22 +1,22 @@
-#XRP Ledger Cheat Sheet
+# XRP Ledger Cheat Sheet
 
  A curated list of all the awesome things happening in XRP Ledger.
 
-##Explorers
+## Explorers
 
-##Nodes
+## Nodes
 
-##Dev Utilities
+## Dev Utilities
 
-##Bots
+## Bots
 
-##Hooks
+## Hooks
 
-##Sidechains
+## Sidechains
 
-##Projects
+## Projects
 
-##Dev Community
+## Dev Community
 
-##Miscellaneous
+## Miscellaneous
 
