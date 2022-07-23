@@ -23,7 +23,7 @@ const main = () => {
                 }
             });
 
-            currentString = `${nL}<div align="center" style="text-align:center;">${nL}${currentString}${nL}</div>${nL}`;
+            // currentString = `${nL}<div align="center" style="text-align:center;">${nL}${currentString}${nL}</div>${nL}`;
         }
         else if (typeof data === "object") {
             for (const topic in data) {
