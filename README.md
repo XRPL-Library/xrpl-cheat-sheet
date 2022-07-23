@@ -33,7 +33,7 @@ XRPL ODL Rosetta | [Link](https://threexrp.dev/)
 
 
 
-<div align="center" style="text-align:center;">
+<div align="center" style="text-align:center;width:100%;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
