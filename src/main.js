@@ -16,12 +16,14 @@ const main = () => {
         let currentString = "";
 
         if (Array.isArray(data)) {
-            currentString += `Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\n--- | ---\n`
+            currentString += `&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; \n--- | ---\n`
             data.forEach(row => {
                 if (row.name) {
                     currentString += `${row.name} | [Link](${row.link})\n`
                 }
             });
+
+            currentString = `${nL}<div align="center" style="text-align:center;">${nL}${currentString}${nL}</div>${nL}`;
         }
         else if (typeof data === "object") {
             for (const topic in data) {
