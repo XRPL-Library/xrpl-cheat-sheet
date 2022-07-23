@@ -39,7 +39,7 @@ const main = () => {
     };
 
     let MD_DATA = `<div align="center" style="font-size:30px;">${nL} ${hash} XRP Ledger Cheat Sheet${nL} A curated list of everything related to the XRP Ledger.${nL}<img src="./src/XRPL.svg" style="padding:10px" onclick=" "/>${nL}</div>${nL}`
-    MD_DATA += convertToMd(xrplSheetJson, 2);
+    MD_DATA += convertToMd(xrplSheetJson, 2) + `## Credits ${nL}`;
 
     fs.writeFileSync("README.md", MD_DATA);
 };
