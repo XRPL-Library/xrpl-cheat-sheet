@@ -8,11 +8,11 @@
 
 </div>
 
-## ♦ Explorers 
+## ➼ Explorers 
 
 > Tools to display information related to XRP Ledger
 
-### ★ All Purpose 
+###  ♦ All Purpose 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -27,7 +27,7 @@ XRPL ODL Rosetta | [Link](https://threexrp.dev/)
 
 ---
 
-### ★ Dex 
+###  ♦ Dex 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -40,7 +40,7 @@ GateHub | [Link](https://gatehub.net/markets/)
 
 ---
 
-### ★ Validators 
+###  ♦ Validators 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -50,7 +50,7 @@ XRPL Org | [Link](https://livenet.xrpl.org/network/validators)
 
 ---
 
-### ★ Fungible Tokens 
+###  ♦ Fungible Tokens 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -62,7 +62,7 @@ OnTheDex.live | [Link](https://onthedex.live/)
 
 ---
 
-### ★ XLS-14 
+###  ♦ XLS-14 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -71,7 +71,7 @@ Bithomp | [Link](https://bithomp.com/)
 
 ---
 
-### ★ XLS-20 
+###  ♦ XLS-20 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -79,11 +79,11 @@ Bithomp | [Link](https://bithomp.com/)
 
 ---
 
-## ♦ Nodes 
+## ➼ Nodes 
 
 > The core server that powers the XRP Ledger.
 
-### ★ Utilities 
+###  ♦ Utilities 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -99,13 +99,13 @@ Rippled Server Broadcasts | [Link](https://groups.google.com/g/ripple-server)
 
 ---
 
-## ♦ Dev Utilities 
+## ➼ Dev Utilities 
 
 > Powerful development tools to assist you with your unique ideas.
 
-### ★ Libraries 
+###  ♦ Libraries 
 
-#### · Javascript 
+#### ★ Javascript 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -122,7 +122,7 @@ Develop WebApp Using VueJS + Webpack (XRP) | [Link](https://itnext.io/develop-aw
 
 ---
 
-#### · Python 
+#### ★ Python 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -137,7 +137,7 @@ XRPL Tagged Address Codec | [Link](https://github.com/xrp-community/xrpl-tagged-
 
 ---
 
-#### · C++ 
+#### ★ C++ 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -146,7 +146,7 @@ Ripple Lib | [Link](https://github.com/ripple/ripple-libpp)
 
 ---
 
-#### · Golang 
+#### ★ Golang 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -156,7 +156,7 @@ XRPL Transactions | [Link](https://github.com/rubblelabs/tx)
 
 ---
 
-#### · JAVA 
+#### ★ JAVA 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -166,7 +166,7 @@ XUMM JAVA SDK | [Link](https://github.com/francisrosario/xumm4j)
 
 ---
 
-#### · PHP 
+#### ★ PHP 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -176,7 +176,7 @@ Federation PHP | [Link](https://github.com/ripple-unmaintained/federation-php)
 
 ---
 
-#### · Ruby 
+#### ★ Ruby 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -187,7 +187,7 @@ Ripple Rails - by singpolyma | [Link](https://github.com/singpolyma/ripple-rails
 
 ---
 
-#### · .NET 
+#### ★ .NET 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -196,7 +196,7 @@ XUMM.NET.SDK | [Link](https://www.nuget.org/packages/XUMM.NET.SDK)
 
 ---
 
-#### · Haskell 
+#### ★ Haskell 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -205,7 +205,7 @@ Ripple Client Protocol Haskell Implementation | [Link](https://github.com/singpo
 
 ---
 
-#### · Swift 
+#### ★ Swift 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -214,7 +214,7 @@ Ripple Kit IOS | [Link](https://github.com/xasos/RippleKit)
 
 ---
 
-#### · Rust 
+#### ★ Rust 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -223,7 +223,7 @@ XRPL Rust Package | [Link](https://github.com/sephynox/xrpl-rust)
 
 ---
 
-### ★ APIs 
+###  ♦ APIs 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -237,7 +237,7 @@ Ripple Blobvault V1 - Server for storing persistent data for Ripple clients | [L
 
 ---
 
-### ★ Miscellaneous 
+###  ♦ Miscellaneous 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -256,11 +256,11 @@ X-Address Information | [Link](https://xrpaddress.info/)
 
 ---
 
-## ♦ Bots 
+## ➼ Bots 
 
 > An autonomous programme that can interact with XRP Ledger.
 
-### ★ Twitter 
+###  ♦ Twitter 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -272,7 +272,7 @@ CSC Alerts | [Link](https://twitter.com/CasinoCoinAlert)
 
 ---
 
-### ★ Discord 
+###  ♦ Discord 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -280,7 +280,7 @@ CSC Alerts | [Link](https://twitter.com/CasinoCoinAlert)
 
 ---
 
-### ★ AMM 
+###  ♦ AMM 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -288,11 +288,11 @@ CSC Alerts | [Link](https://twitter.com/CasinoCoinAlert)
 
 ---
 
-## ♦ Hooks 
+## ➼ Hooks 
 
 > Smart Contracts on XRP Ledger
 
-### ★ Docs 
+###  ♦ Docs 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -301,11 +301,11 @@ XRPL Hooks Documentation | [Link](https://xrpl-hooks.readme.io/docs/introduction
 
 ---
 
-## ♦ Sidechains 
+## ➼ Sidechains 
 
 > A sidechain is an independent ledger with its own consensus algorithm and transaction types and rules. It acts as its own blockchain.
 
-### ★ Docs 
+###  ♦ Docs 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -315,11 +315,11 @@ A vision for Federated Sidechains | [Link](https://dev.to/ripplexdev/a-vision-fo
 
 ---
 
-## ♦ Projects 
+## ➼ Projects 
 
 > Programmes/Companies/Softwares actively working on/utilising XRP Ledger.
 
-### ★ Layer Two 
+###  ♦ Layer Two 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -328,7 +328,7 @@ Evernode | [Link](https://evernode.wordpress.com/)
 
 ---
 
-### ★ Gaming 
+###  ♦ Gaming 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -337,7 +337,7 @@ Ledger City | [Link](https://ledgercitygame.com/)
 
 ---
 
-### ★ Charity 
+###  ♦ Charity 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -345,7 +345,7 @@ Ledger City | [Link](https://ledgercitygame.com/)
 
 ---
 
-### ★ Browser Extensions 
+###  ♦ Browser Extensions 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -354,7 +354,7 @@ XPT - XRPL Portfolio Tracker | [Link](https://xptxrpl.com/)
 
 ---
 
-### ★ Payments 
+###  ♦ Payments 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -363,9 +363,9 @@ PayString | [Link](https://paystring.org/)
 
 ---
 
-### ★ Wallets 
+###  ♦ Wallets 
 
-#### · Custodial 
+#### ★ Custodial 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -374,9 +374,9 @@ Uphold | [Link](https://uphold.com/)
 
 ---
 
-#### · Non-Custodial 
+#### ★ Non-Custodial 
 
-##### ⁃ Software 
+##### · Software 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -387,7 +387,7 @@ Solo Wallet | [Link](https://www.sologenic.com/ecosystem/solo-wallet)
 
 ---
 
-##### ⁃ Hardware 
+##### · Hardware 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -397,7 +397,7 @@ Trezor | [Link](https://trezor.io/)
 
 ---
 
-##### ⁃ Paper 
+##### · Paper 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -406,7 +406,7 @@ Paper Account Generator | [Link](https://www.xrpaddress.org/)
 
 ---
 
-### ★ Software As A Service 
+###  ♦ Software As A Service 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -420,11 +420,11 @@ Ripple ODL - uses XRPL | [Link](https://ripple.com/solutions/crypto-liquidity/)
 
 ---
 
-## ♦ Dev Community 
+## ➼ Dev Community 
 
 > Ways to interact with like minded people who love XRP Ledger.
 
-### ★ Links 
+###  ♦ Links 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -436,11 +436,11 @@ XRPL Ideas Discussion | [Link](https://github.com/intelliot/xrpl-ideas/discussio
 
 ---
 
-## ♦ Miscellaneous 
+## ➼ Miscellaneous 
 
 > Some more useful resources you might want to look at.
 
-### ★ Cross Chains 
+###  ♦ Cross Chains 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -450,7 +450,7 @@ Flare | [Link](https://flare.xyz/)
 
 ---
 
-### ★ Resources 
+###  ♦ Resources 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
