@@ -4,7 +4,7 @@
 
  A curated list of everything related to the XRP Ledger.
 
-<img src="./src/XRPL.svg" style="padding:10px" onclick=" "/>
+<img src="./src/XRPL.svg" style="padding:10px" onclick=null/>
 
 </div>
 
