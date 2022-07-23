@@ -1,4 +1,4 @@
-#XRP Ledger Cheat Sheet
+# XRP Ledger Cheat Sheet
 
  A curated list of all the awesome things happening in XRP Ledger.
 
