@@ -4,7 +4,7 @@
 
  A curated list of everything related to the XRP Ledger.
 
-<img src="./src/XRPL.org.svg"/>
+<img src="./src/XRPL.org.svg" style="padding:10px"/>
 
 </div>
 
