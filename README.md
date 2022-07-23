@@ -3,6 +3,7 @@
         width: 100%;
     }
 </style>
+
 <div align="center" style="font-size:30px;">
 
  # XRP Ledger Cheat Sheet

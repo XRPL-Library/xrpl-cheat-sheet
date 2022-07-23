@@ -44,6 +44,7 @@ const main = () => {
         width: 100%;
     }
 </style>
+
 <div align="center" style="font-size:30px;">${nL} ${hash} XRP Ledger Cheat Sheet${nL} A curated list of everything related to the XRP Ledger.${nL}</div>${nL}`
     MD_DATA += convertToMd(xrplSheetJson, 2);
 
