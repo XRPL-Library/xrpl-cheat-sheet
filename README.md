@@ -1,6 +1,10 @@
-# XRP Ledger Cheat Sheet
+<div style="text-align:center;font-size:30px;">
 
- A curated list of everything awesome going on in the XRP Ledger.
+ # XRP Ledger Cheat Sheet
+
+ A curated list of everything related to the XRP Ledger.
+
+</div>
 
 ## Explorers 
 
