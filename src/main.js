@@ -18,7 +18,7 @@ const main = () => {
             currentString += `Name | Link \n--- | ---\n`
             data.forEach(row => {
                 if (row.name) {
-                    currentString += `${row.name} | ![Link]("${row.link}")\n`
+                    currentString += `${row.name} | [Link](${row.link})\n`
                 }
             });
         }
