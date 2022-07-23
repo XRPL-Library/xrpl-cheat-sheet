@@ -1,4 +1,10 @@
-<div align="center" style="font-size:30px;">
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+    
+    <div align="center" style="font-size:30px;">
 
  # XRP Ledger Cheat Sheet
 
@@ -33,7 +39,7 @@ XRPL ODL Rosetta | [Link](https://threexrp.dev/)
 
 
 
-<div align="center" style="text-align:center;width:100%;">
+<div align="center" style="text-align:center;">
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
