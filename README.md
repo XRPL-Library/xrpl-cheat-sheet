@@ -4,7 +4,7 @@
 
  A curated list of everything related to the XRP Ledger.
 
-<img src="./src/XRPL.svg" style="padding:10px"/>
+<img src="./src/XRPL.svg" style="padding:10px" onclick=" "/>
 
 </div>
 
@@ -105,7 +105,7 @@ Rippled Server Broadcasts | [Link](https://groups.google.com/g/ripple-server)
 
 ### ♦ Libraries 
 
-#### ⦿ Javascript 
+#### ★ Javascript 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -122,7 +122,7 @@ Develop WebApp Using VueJS + Webpack (XRP) | [Link](https://itnext.io/develop-aw
 
 ---
 
-#### ⦿ Python 
+#### ★ Python 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -137,7 +137,7 @@ XRPL Tagged Address Codec | [Link](https://github.com/xrp-community/xrpl-tagged-
 
 ---
 
-#### ⦿ C++ 
+#### ★ C++ 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -146,7 +146,7 @@ Ripple Lib | [Link](https://github.com/ripple/ripple-libpp)
 
 ---
 
-#### ⦿ Golang 
+#### ★ Golang 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -156,7 +156,7 @@ XRPL Transactions | [Link](https://github.com/rubblelabs/tx)
 
 ---
 
-#### ⦿ JAVA 
+#### ★ JAVA 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -166,7 +166,7 @@ XUMM JAVA SDK | [Link](https://github.com/francisrosario/xumm4j)
 
 ---
 
-#### ⦿ PHP 
+#### ★ PHP 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -176,7 +176,7 @@ Federation PHP | [Link](https://github.com/ripple-unmaintained/federation-php)
 
 ---
 
-#### ⦿ Ruby 
+#### ★ Ruby 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -187,7 +187,7 @@ Ripple Rails - by singpolyma | [Link](https://github.com/singpolyma/ripple-rails
 
 ---
 
-#### ⦿ .NET 
+#### ★ .NET 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -196,7 +196,7 @@ XUMM.NET.SDK | [Link](https://www.nuget.org/packages/XUMM.NET.SDK)
 
 ---
 
-#### ⦿ Haskell 
+#### ★ Haskell 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -205,7 +205,7 @@ Ripple Client Protocol Haskell Implementation | [Link](https://github.com/singpo
 
 ---
 
-#### ⦿ Swift 
+#### ★ Swift 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -214,7 +214,7 @@ Ripple Kit IOS | [Link](https://github.com/xasos/RippleKit)
 
 ---
 
-#### ⦿ Rust 
+#### ★ Rust 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -365,7 +365,7 @@ PayString | [Link](https://paystring.org/)
 
 ### ♦ Wallets 
 
-#### ⦿ Custodial 
+#### ★ Custodial 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
@@ -374,7 +374,7 @@ Uphold | [Link](https://uphold.com/)
 
 ---
 
-#### ⦿ Non-Custodial 
+#### ★ Non-Custodial 
 
 ##### · Software 
 

@@ -6,7 +6,7 @@ const main = () => {
     // Markdown things
     const nL = `\n\n`;
     let hash = `#`;
-    const bullet_symbols = ["➼", "♦", "⦿", "·", "⁃"];
+    const bullet_symbols = ["➼", "♦", "★", "·", "⁃"];
 
     const convertToMd = (data = null, deep = 1) => {
         if (!data) {
