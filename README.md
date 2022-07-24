@@ -20,7 +20,7 @@ README.md file is derived from [xrpl-cheat-sheet.json](https://github.com/Tushar
 
  1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) 
  2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com" }. 
- 3. After successful merge your README.md file will auto update, and your project will be visible.
+ 3. After successful merge README.md file will auto update, and your project will be visible.
 
  > [Bonus]: This list will be used in "Useful Links/Projects" Section of [XPT Browser Extension](https://xptxrpl.com/).
 
