@@ -126,7 +126,7 @@ Rippled Server Broadcasts | [Link](https://groups.google.com/g/ripple-server)
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; 
 --- | ---
 XRPL JS Library | [Link](https://github.com/XRPLF/xrpl.js)
-XRPLL Websocket Client - NPM Package | [Link](https://www.npmjs.com/package/xrpl-client)
+XRPL Websocket Client - NPM Package | [Link](https://www.npmjs.com/package/xrpl-client)
 XRPL AccountLib - NPM Package | [Link](https://www.npmjs.com/package/xrpl-accountlib)
 XRPL Transaction Data Fetcher - NPM Package | [Link](https://www.npmjs.com/package/xrpl-txdata)
 Node-Red Modules: Fully interact with XRPL | [Link](https://github.com/xrpinnovations/node-red-contrib-xrpl)
