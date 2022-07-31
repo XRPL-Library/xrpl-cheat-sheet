@@ -245,6 +245,7 @@ XRPL Rust Package | [Link](https://github.com/sephynox/xrpl-rust)
 --- | ---
 Sologenic XRPL Trading Data | [Link](https://github.com/sologenic/xrpl-trading-data/blob/main/docs.md)
 OnTheDex.live | [Link](https://github.com/OnTheDEX/xrpledger-token-data-api/)
+XRPL Meta | [Link](https://xrplmeta.org)
 Public HTTP/Websocket APIs | [Link](https://xrpl.org/http-websocket-apis.html)
 Ripple Data API V2 - [Depreceated] | [Link](https://github.com/ripple/rippled-historical-database)
 Ripple Charts API - [Depreceated] | [Link](https://github.com/ripple/ripple-data-api)
