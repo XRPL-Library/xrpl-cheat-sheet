@@ -326,6 +326,11 @@
                     "name": "XRPL Rust Package",
                     "link": "https://github.com/sephynox/xrpl-rust",
                     "description": ""
+                },
+                {
+                    "name": "XRP Ledger SDK for Rust",
+                    "link": "https://github.com/gmosx/xrpl_sdk_rust",
+                    "description": "A Rust SDK for working with XRP Ledger APIs."
                 }
             ]
         },
