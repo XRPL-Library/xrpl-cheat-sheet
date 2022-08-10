@@ -655,18 +655,7 @@
                 "discounts": "Save 10% at checkout when you #PayWithXUMM.",
                 "twitter": "https://twitter.com/XRPLMerch/",
                 "email": "mailto:support@xrplmerch.com",
-                "tags": [
-                    "merch",
-                    "clothing",
-                    "clothes",
-                    "t-shirts",
-                    "shirts",
-                    "hoodies",
-                    "sweaters",
-                    "hats",
-                    "socks",
-                    "accessories"
-                ]
+                "tags": ["merch", "clothing", "clothes", "t-shirts", "shirts", "hoodies", "sweaters", "hats", "socks", "accessories"]
             }
         ]
     }
