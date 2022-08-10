@@ -235,6 +235,7 @@ Ripple Rails - by singpolyma | [Link](https://github.com/singpolyma/ripple-rails
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
  --- | --- | --- 
  XRPL Rust Package | [Link](https://github.com/sephynox/xrpl-rust) | -
+XRP Ledger SDK for Rust | [Link](https://github.com/gmosx/xrpl_sdk_rust) | A Rust SDK for working with XRP Ledger APIs.
 
 
 ---
