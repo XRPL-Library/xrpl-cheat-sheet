@@ -326,6 +326,11 @@
                     "name": "XRPL Rust Package",
                     "link": "https://github.com/sephynox/xrpl-rust",
                     "description": ""
+                },
+                {
+                    "name": "XRP Ledger SDK for Rust",
+                    "link": "https://github.com/gmosx/xrpl_sdk_rust",
+                    "description": "A Rust SDK for working with XRP Ledger APIs."
                 }
             ]
         },
@@ -650,7 +655,18 @@
                 "discounts": "Save 10% at checkout when you #PayWithXUMM.",
                 "twitter": "https://twitter.com/XRPLMerch/",
                 "email": "mailto:support@xrplmerch.com",
-                "tags": ["merch", "clothing", "clothes", "t-shirts", "shirts", "hoodies", "sweaters", "hats", "socks", "accessories"]
+                "tags": [
+                    "merch",
+                    "clothing",
+                    "clothes",
+                    "t-shirts",
+                    "shirts",
+                    "hoodies",
+                    "sweaters",
+                    "hats",
+                    "socks",
+                    "accessories"
+                ]
             }
         ]
     }
