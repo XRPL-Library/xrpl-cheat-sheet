@@ -486,7 +486,7 @@ Yyolk's Awesome XRPL List | [Link](https://github.com/yyolk/awesome-xrpl#readme)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
  --- | --- | --- 
- XRPL Merch | [Link](https://xrplmerch.com) | Your go to shop for XRPL based merchandise. We are open to collaboration and customization of products.
+ XRPL Merch | [Link](https://xrplmerch.com) | Your go to shop for XRPL based merchandise. We are open to collaboration and customization of products. Save 10% at checkout when you #PayWithXUMM.
 
 
 ---
