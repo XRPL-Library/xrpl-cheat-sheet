@@ -4,87 +4,106 @@
         "All Purpose": [
             {
                 "name": "Bithomp",
-                "link": "https://bithomp.com/"
+                "link": "https://bithomp.com/",
+                "description": ""
             },
             {
                 "name": "XRPScan",
-                "link": "https://xrpscan.com/"
+                "link": "https://xrpscan.com/",
+                "description": ""
             },
             {
                 "name": "XRPlorer",
-                "link": "https://xrplorer.com/"
+                "link": "https://xrplorer.com/",
+                "description": ""
             },
             {
                 "name": "XRP Intel",
-                "link": "https://xrpintel.com/"
+                "link": "https://xrpintel.com/",
+                "description": ""
             },
             {
                 "name": "Livenet XRPL Org",
-                "link": "https://livenet.xrpl.org/"
+                "link": "https://livenet.xrpl.org/",
+                "description": ""
             },
             {
                 "name": "XRPLF Ledger Explorer",
-                "link": "https://explorer.xrplf.org/"
+                "link": "https://explorer.xrplf.org/",
+                "description": ""
             },
             {
                 "name": "XRPL ODL Rosetta",
-                "link": "https://threexrp.dev/"
+                "link": "https://threexrp.dev/",
+                "description": ""
             }
         ],
         "Dex": [
             {
                 "name": "Sologenic",
-                "link": "https://sologenic.org/"
+                "link": "https://sologenic.org/",
+                "description": ""
             },
             {
                 "name": "XRPLCoins",
-                "link": "https://xrplcoins.com/dex/"
+                "link": "https://xrplcoins.com/dex/",
+                "description": ""
             },
             {
                 "name": "XRP Toolkit",
-                "link": "https://www.xrptoolkit.com/"
+                "link": "https://www.xrptoolkit.com/",
+                "description": ""
             },
             {
                 "name": "XDEX",
-                "link": "https://xdex.com/"
+                "link": "https://xdex.com/",
+                "description": ""
             },
             {
                 "name": "GateHub",
-                "link": "https://gatehub.net/markets/"
+                "link": "https://gatehub.net/markets/",
+                "description": ""
             }
         ],
         "Validators": [
             {
                 "name": "XRPScan",
-                "link": "https://xrpscan.com/validators/"
+                "link": "https://xrpscan.com/validators/",
+                "description": ""
             },
             {
                 "name": "XRPL Org",
-                "link": "https://livenet.xrpl.org/network/validators"
+                "link": "https://livenet.xrpl.org/network/validators",
+                "description": ""
             }
         ],
         "Fungible Tokens": [
             {
                 "name": "XPMarket",
-                "link": "https://xpmarket.io"
+                "link": "https://xpmarket.io",
+                "description": ""
             },
             {
                 "name": "XRPL Services",
-                "link": "https://xrpl.services/tokens/s"
+                "link": "https://xrpl.services/tokens/s",
+                "description": ""
             },
             {
                 "name": "XRPL Org",
-                "link": "https://livenet.xrpl.org/tokens/"
+                "link": "https://livenet.xrpl.org/tokens/",
+                "description": ""
             },
             {
                 "name": "OnTheDex.live",
-                "link": "https://onthedex.live/"
+                "link": "https://onthedex.live/",
+                "description": ""
             }
         ],
         "XLS-14": [
             {
                 "name": "Bithomp",
-                "link": "https://bithomp.com/"
+                "link": "https://bithomp.com/",
+                "description": ""
             }
         ],
         "XLS-20": []
@@ -94,35 +113,43 @@
         "Utilities": [
             {
                 "name": "XRPL.org Rippled Server Setup Guide",
-                "link": "https://xrpl.org/manage-the-rippled-server.html"
+                "link": "https://xrpl.org/manage-the-rippled-server.html",
+                "description": ""
             },
             {
                 "name": "XRPL.org Clio Server Setup Guide",
-                "link": "https://xrpl.org/manage-the-clio-server.html"
+                "link": "https://xrpl.org/manage-the-clio-server.html",
+                "description": ""
             },
             {
                 "name": "XRPLF Node Configurator",
-                "link": "https://xrplf.github.io/xrpl-node-configurator/#/"
+                "link": "https://xrplf.github.io/xrpl-node-configurator/#/",
+                "description": ""
             },
             {
                 "name": "Docker Container - Run a node",
-                "link": "https://github.com/WietseWind/docker-rippled"
+                "link": "https://github.com/WietseWind/docker-rippled",
+                "description": ""
             },
             {
                 "name": "Docker Container - Run a validator",
-                "link": "https://github.com/WietseWind/docker-rippled-validator"
+                "link": "https://github.com/WietseWind/docker-rippled-validator",
+                "description": ""
             },
             {
                 "name": "Rippled on Rasberry Pi 4",
-                "link": "https://write.as/dvilela/running-an-xrpl-validator-on-a-raspberry-pi-4"
+                "link": "https://write.as/dvilela/running-an-xrpl-validator-on-a-raspberry-pi-4",
+                "description": ""
             },
             {
                 "name": "OtherServices - Ripple Validator Guide",
-                "link": "https://github.com/OtterServices/RippledValidatorGuide/blob/main/XRP_Ledger_Linux_Validator_Initialization_Guide_V1%20(2).pdf"
+                "link": "https://github.com/OtterServices/RippledValidatorGuide/blob/main/XRP_Ledger_Linux_Validator_Initialization_Guide_V1%20(2).pdf",
+                "description": ""
             },
             {
                 "name": "Rippled Server Broadcasts",
-                "link": "https://groups.google.com/g/ripple-server"
+                "link": "https://groups.google.com/g/ripple-server",
+                "description": ""
             }
         ]
     },
@@ -132,150 +159,181 @@
             "Javascript": [
                 {
                     "name": "XRPL JS Library",
-                    "link": "https://github.com/XRPLF/xrpl.js"
+                    "link": "https://github.com/XRPLF/xrpl.js",
+                    "description": ""
                 },
                 {
-                    "name": "XRPL Websocket Client - NPM Package",
-                    "link": "https://www.npmjs.com/package/xrpl-client"
+                    "name": "XRPLL Websocket Client - NPM Package",
+                    "link": "https://www.npmjs.com/package/xrpl-client",
+                    "description": ""
                 },
                 {
                     "name": "XRPL AccountLib - NPM Package",
-                    "link": "https://www.npmjs.com/package/xrpl-accountlib"
+                    "link": "https://www.npmjs.com/package/xrpl-accountlib",
+                    "description": ""
                 },
                 {
                     "name": "XRPL Transaction Data Fetcher - NPM Package",
-                    "link": "https://www.npmjs.com/package/xrpl-txdata"
+                    "link": "https://www.npmjs.com/package/xrpl-txdata",
+                    "description": ""
                 },
                 {
                     "name": "Node-Red Modules: Fully interact with XRPL",
-                    "link": "https://github.com/xrpinnovations/node-red-contrib-xrpl"
+                    "link": "https://github.com/xrpinnovations/node-red-contrib-xrpl",
+                    "description": ""
                 },
                 {
                     "name": "XUMM SDK - JS/TS",
-                    "link": "https://github.com/XRPL-Labs/XUMM-SDK"
+                    "link": "https://github.com/XRPL-Labs/XUMM-SDK",
+                    "description": ""
                 },
                 {
                     "name": "Ripple Restful APIs - [DEV Frozen]",
-                    "link": "https://github.com/ripple/ripple-rest"
+                    "link": "https://github.com/ripple/ripple-rest",
+                    "description": ""
                 },
                 {
                     "name": "Wallet Desktop client for vue-electron",
-                    "link": "https://github.com/devjin0617/ripplectron"
+                    "link": "https://github.com/devjin0617/ripplectron",
+                    "description": ""
                 },
                 {
                     "name": "Develop WebApp Using VueJS + Webpack (XRP)",
-                    "link": "https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c"
+                    "link": "https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c",
+                    "description": ""
                 }
             ],
             "Python": [
                 {
                     "name": "XRPL Python Library",
-                    "link": "https://github.com/XRPLF/xrpl-py"
+                    "link": "https://github.com/XRPLF/xrpl-py",
+                    "description": ""
                 },
                 {
                     "name": "XRPL-monitor-ESP32",
-                    "link": "https://github.com/dvilelaf/XRPL-monitor-ESP32"
+                    "link": "https://github.com/dvilelaf/XRPL-monitor-ESP32",
+                    "description": ""
                 },
                 {
                     "name": "Dexter",
-                    "link": "https://github.com/hammertoe/dexter/"
+                    "link": "https://github.com/hammertoe/dexter/",
+                    "description": ""
                 },
                 {
                     "name": "XUMM SDK PY",
-                    "link": "https://pypi.org/project/xumm-sdk-py/"
+                    "link": "https://pypi.org/project/xumm-sdk-py/",
+                    "description": ""
                 },
                 {
                     "name": "CoinClub Framework [XRP] Python",
-                    "link": "https://github.com/QCloud-DevOps/CoinClub_Framework"
+                    "link": "https://github.com/QCloud-DevOps/CoinClub_Framework",
+                    "description": ""
                 },
                 {
                     "name": "Federation Python",
-                    "link": "https://github.com/miracle2k/ripple-federation-python"
+                    "link": "https://github.com/miracle2k/ripple-federation-python",
+                    "description": ""
                 },
                 {
                     "name": "XRPL Tagged Address Codec",
-                    "link": "https://github.com/xrp-community/xrpl-tagged-address-codec"
+                    "link": "https://github.com/xrp-community/xrpl-tagged-address-codec",
+                    "description": ""
                 }
             ],
             "C++": [
                 {
                     "name": "Ripple Lib",
-                    "link": "https://github.com/ripple/ripple-libpp"
+                    "link": "https://github.com/ripple/ripple-libpp",
+                    "description": ""
                 }
             ],
             "Golang": [
                 {
                     "name": "Go Package to Interact with XRPL",
-                    "link": "https://github.com/rubblelabs/ripple"
+                    "link": "https://github.com/rubblelabs/ripple",
+                    "description": ""
                 },
                 {
                     "name": "XRPL Transactions",
-                    "link": "https://github.com/rubblelabs/tx"
+                    "link": "https://github.com/rubblelabs/tx",
+                    "description": ""
                 }
             ],
             "JAVA": [
                 {
                     "name": "XRPL Java SDK",
-                    "link": "https://github.com/XRPLF/xrpl4j"
+                    "link": "https://github.com/XRPLF/xrpl4j",
+                    "description": ""
                 },
                 {
                     "name": "XUMM JAVA SDK",
-                    "link": "https://github.com/francisrosario/xumm4j"
+                    "link": "https://github.com/francisrosario/xumm4j",
+                    "description": ""
                 }
             ],
             "PHP": [
                 {
                     "name": "XUMM PHP",
-                    "link": "https://packagist.org/packages/xrpl/xumm-sdk-php"
+                    "link": "https://packagist.org/packages/xrpl/xumm-sdk-php",
+                    "description": ""
                 },
                 {
                     "name": "Federation PHP",
-                    "link": "https://github.com/ripple-unmaintained/federation-php"
+                    "link": "https://github.com/ripple-unmaintained/federation-php",
+                    "description": ""
                 }
             ],
             "Ruby": [
                 {
                     "name": "XRPL Ruby Library",
-                    "link": "https://github.com/DevNullProd/XRBP"
+                    "link": "https://github.com/DevNullProd/XRBP",
+                    "description": ""
                 },
                 {
                     "name": "Ripple Ruby Library",
-                    "link": "https://github.com/kevinejohn/ripple-lib-rpc-ruby/"
+                    "link": "https://github.com/kevinejohn/ripple-lib-rpc-ruby/",
+                    "description": ""
                 },
                 {
                     "name": "Ripple Rails - by singpolyma",
-                    "link": "https://github.com/singpolyma/ripple-rails/"
+                    "link": "https://github.com/singpolyma/ripple-rails/",
+                    "description": ""
                 }
             ],
             ".NET": [
                 {
                     "name": "XUMM.NET.SDK",
-                    "link": "https://www.nuget.org/packages/XUMM.NET.SDK"
+                    "link": "https://www.nuget.org/packages/XUMM.NET.SDK",
+                    "description": ""
                 }
             ],
             "Haskell": [
                 {
                     "name": "Ripple Client Protocol Haskell Implementation",
-                    "link": "https://github.com/singpolyma/ripple-haskell/"
+                    "link": "https://github.com/singpolyma/ripple-haskell/",
+                    "description": ""
                 }
             ],
             "Swift": [
                 {
                     "name": "Ripple Kit IOS",
-                    "link": "https://github.com/xasos/RippleKit"
+                    "link": "https://github.com/xasos/RippleKit",
+                    "description": ""
                 }
             ],
             "Rust": [
                 {
                     "name": "XRPL Rust Package",
-                    "link": "https://github.com/sephynox/xrpl-rust"
+                    "link": "https://github.com/sephynox/xrpl-rust",
+                    "description": ""
                 }
             ]
         },
         "APIs": [
             {
                 "name": "Sologenic XRPL Trading Data",
-                "link": "https://github.com/sologenic/xrpl-trading-data/blob/main/docs.md"
+                "link": "https://github.com/sologenic/xrpl-trading-data/blob/main/docs.md",
+                "description": ""
             },
             {
                 "name": "OnTheDex.live",
@@ -283,69 +341,85 @@
             },
             {
                 "name": "XRPL Meta",
-                "link": "https://xrplmeta.org"
+                "link": "https://xrplmeta.org",
+                "description": ""
             },
             {
                 "name": "Public HTTP/Websocket APIs",
-                "link": "https://xrpl.org/http-websocket-apis.html"
+                "link": "https://xrpl.org/http-websocket-apis.html",
+                "description": ""
             },
             {
                 "name": "Ripple Data API V2 - [Depreceated]",
-                "link": "https://github.com/ripple/rippled-historical-database"
+                "link": "https://github.com/ripple/rippled-historical-database",
+                "description": ""
             },
             {
                 "name": "Ripple Charts API - [Depreceated]",
-                "link": "https://github.com/ripple/ripple-data-api"
+                "link": "https://github.com/ripple/ripple-data-api",
+                "description": ""
             },
             {
                 "name": "Ripple Blobvault V1 - Server for storing persistent data for Ripple clients",
-                "link": "https://github.com/ripple/ripple-blobvault"
+                "link": "https://github.com/ripple/ripple-blobvault",
+                "description": ""
             }
         ],
         "Miscellaneous": [
             {
                 "name": "XRPL.ORG Dev Tools",
-                "link": "https://xrpl.org/dev-tools.html"
+                "link": "https://xrpl.org/dev-tools.html",
+                "description": ""
             },
             {
                 "name": "XRPL Binary Visualiser",
-                "link": "https://github.com/RichardAH/xrpl-binary-visualizer"
+                "link": "https://github.com/RichardAH/xrpl-binary-visualizer",
+                "description": ""
             },
             {
                 "name": "XRP.FANS - Use for Dashboard Debugging & Dev",
-                "link": "https://xrp.fans/"
+                "link": "https://xrp.fans/",
+                "description": ""
             },
             {
                 "name": "XRPL Composer - Create, visualize, and validate complex payment path",
-                "link": "https://graph.trustline.co/#/"
+                "link": "https://graph.trustline.co/#/",
+                "description": ""
             },
             {
                 "name": "XRPL Vanity Address Generator - by nhartner (JAVA)",
-                "link": "https://github.com/nhartner/xrp-vanity-address"
+                "link": "https://github.com/nhartner/xrp-vanity-address",
+                "description": ""
             },
             {
                 "name": "XRPL Vanity Address Generator - by CodeShark (C++)",
-                "link": "https://github.com/CodeShark/RippleGen/"
+                "link": "https://github.com/CodeShark/RippleGen/",
+                "description": ""
             },
             {
                 "name": "XRPL Vanity Address Generator - by Wietse Wind (JS)",
-                "link": "https://github.com/WietseWind/xrp-vanity-generator"
+                "link": "https://github.com/WietseWind/xrp-vanity-generator",
+                "description": ""
             },
             {
                 "name": "XRPL Vanity Address Generator - by Tushar Pardhe (JS)",
-                "link": "https://github.com/TusharPardhe/xrpl-rAddress-generator"
+                "link": "https://github.com/TusharPardhe/xrpl-rAddress-generator",
+                "description": ""
             },
             {
                 "name": "Scrape xrpl.org pages to determine the tx types & schema",
-                "link": "https://runkit.com/wietsewind/get-gh-xrpl-tx-types"
+                "link": "https://runkit.com/wietsewind/get-gh-xrpl-tx-types",
+                "description": ""
             },
             {
                 "name": "Ripple checkout - A simple widget code to pay with XRP",
-                "link": "https://github.com/emschwartz/ripple-donate-widget"
+                "link": "https://github.com/emschwartz/ripple-donate-widget",
+                "description": ""
             },
             {
                 "name": "X-Address Information",
-                "link": "https://xrpaddress.info/"
+                "link": "https://xrpaddress.info/",
+                "description": ""
             },
             []
         ]
@@ -355,19 +429,23 @@
         "Twitter": [
             {
                 "name": "Bithomp Price Alerts",
-                "link": "https://twitter.com/BithompAlerts"
+                "link": "https://twitter.com/BithompAlerts",
+                "description": ""
             },
             {
                 "name": "XRPL ODL Tracker",
-                "link": "https://twitter.com/UtilityScan"
+                "link": "https://twitter.com/UtilityScan",
+                "description": ""
             },
             {
                 "name": "XRPL Intelligence",
-                "link": "https://twitter.com/xrp1ntel"
+                "link": "https://twitter.com/xrp1ntel",
+                "description": ""
             },
             {
                 "name": "CSC Alerts",
-                "link": "https://twitter.com/CasinoCoinAlert"
+                "link": "https://twitter.com/CasinoCoinAlert",
+                "description": ""
             }
         ],
         "Discord": [],
@@ -378,7 +456,8 @@
         "Docs": [
             {
                 "name": "XRPL Hooks Documentation",
-                "link": "https://xrpl-hooks.readme.io/docs/introduction"
+                "link": "https://xrpl-hooks.readme.io/docs/introduction",
+                "description": ""
             }
         ]
     },
@@ -387,11 +466,13 @@
         "Docs": [
             {
                 "name": "Federated Sidechains",
-                "link": "https://xrpl.org/federated-sidechains.html"
+                "link": "https://xrpl.org/federated-sidechains.html",
+                "description": ""
             },
             {
                 "name": "A vision for Federated Sidechains",
-                "link": "https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o"
+                "link": "https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o",
+                "description": ""
             }
         ]
     },
@@ -400,64 +481,75 @@
         "Layer Two": [
             {
                 "name": "Evernode",
-                "link": "https://evernode.wordpress.com/"
+                "link": "https://evernode.wordpress.com/",
+                "description": ""
             }
         ],
         "Gaming": [
             {
                 "name": "Ledger City",
-                "link": "https://ledgercitygame.com/"
+                "link": "https://ledgercitygame.com/",
+                "description": ""
             }
         ],
         "Charity": [],
         "Browser Extensions": [
             {
                 "name": "XPT - XRPL Portfolio Tracker",
-                "link": "https://xptxrpl.com/"
+                "link": "https://xptxrpl.com/",
+                "description": ""
             }
         ],
         "Payments": [
             {
                 "name": "PayString",
-                "link": "https://paystring.org/"
+                "link": "https://paystring.org/",
+                "description": ""
             }
         ],
         "Wallets": {
             "Custodial": [
                 {
                     "name": "Uphold",
-                    "link": "https://uphold.com/"
+                    "link": "https://uphold.com/",
+                    "description": ""
                 }
             ],
             "Non-Custodial": {
                 "Software": [
                     {
                         "name": "XUMM",
-                        "link": "https://xumm.app/"
+                        "link": "https://xumm.app/",
+                        "description": ""
                     },
                     {
                         "name": "GemWallet",
-                        "link": "https://gemwallet.app/docs/user-guide/introduction"
+                        "link": "https://gemwallet.app/docs/user-guide/introduction",
+                        "description": ""
                     },
                     {
                         "name": "Solo Wallet",
-                        "link": "https://www.sologenic.com/ecosystem/solo-wallet"
+                        "link": "https://www.sologenic.com/ecosystem/solo-wallet",
+                        "description": ""
                     }
                 ],
                 "Hardware": [
                     {
                         "name": "Ledger",
-                        "link": "https://www.ledger.com/"
+                        "link": "https://www.ledger.com/",
+                        "description": ""
                     },
                     {
                         "name": "Trezor",
-                        "link": "https://trezor.io/"
+                        "link": "https://trezor.io/",
+                        "description": ""
                     }
                 ],
                 "Paper": [
                     {
                         "name": "Paper Account Generator",
-                        "link": "https://www.xrpaddress.org/"
+                        "link": "https://www.xrpaddress.org/",
+                        "description": ""
                     }
                 ]
             }
@@ -465,27 +557,33 @@
         "Software As A Service": [
             {
                 "name": "XRPL Services - All in one XRPL Tool",
-                "link": "https://xrpl.services/"
+                "link": "https://xrpl.services/",
+                "description": ""
             },
             {
                 "name": "Spend The Bits -  Mobile payments App",
-                "link": "https://spendthebits.com/"
+                "link": "https://spendthebits.com/",
+                "description": ""
             },
             {
                 "name": "XRPAYMENTS - Tool to generate payment request QR",
-                "link": "https://xrpayments.co/"
+                "link": "https://xrpayments.co/",
+                "description": ""
             },
             {
                 "name": "Block Trac - Monitor your blockchain account",
-                "link": "https://blocktr.ac/"
+                "link": "https://blocktr.ac/",
+                "description": ""
             },
             {
                 "name": "XRPhone - Pay invoices over phone",
-                "link": "https://www.xrphone.app/"
+                "link": "https://www.xrphone.app/",
+                "description": ""
             },
             {
                 "name": "Ripple ODL - uses XRPL",
-                "link": "https://ripple.com/solutions/crypto-liquidity/"
+                "link": "https://ripple.com/solutions/crypto-liquidity/",
+                "description": ""
             }
         ]
     },
@@ -494,19 +592,23 @@
         "Links": [
             {
                 "name": "Discord",
-                "link": ""
+                "link": "",
+                "description": ""
             },
             {
                 "name": "Twitter",
-                "link": ""
+                "link": "",
+                "description": ""
             },
             {
                 "name": "Dev.to",
-                "link": "https://dev.to/ripplexdev"
+                "link": "https://dev.to/ripplexdev",
+                "description": ""
             },
             {
                 "name": "XRPL Ideas Discussion",
-                "link": "https://github.com/intelliot/xrpl-ideas/discussions"
+                "link": "https://github.com/intelliot/xrpl-ideas/discussions",
+                "description": ""
             }
         ]
     },
@@ -515,21 +617,25 @@
         "Cross Chains": [
             {
                 "name": "Wanchain",
-                "link": "https://www.wanchain.org/"
+                "link": "https://www.wanchain.org/",
+                "description": ""
             },
             {
                 "name": "Flare",
-                "link": "https://flare.xyz/"
+                "link": "https://flare.xyz/",
+                "description": ""
             }
         ],
         "Resources": [
             {
                 "name": "Awesome Ripple - A curated list of Ripple resources",
-                "link": "https://github.com/vhpoet/awesome-ripple"
+                "link": "https://github.com/vhpoet/awesome-ripple",
+                "description": ""
             },
             {
                 "name": "Yyolk's Awesome XRPL List",
-                "link": "https://github.com/yyolk/awesome-xrpl#readme"
+                "link": "https://github.com/yyolk/awesome-xrpl#readme",
+                "description": ""
             }
         ]
     }

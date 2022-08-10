@@ -16,10 +16,12 @@ const main = () => {
         let currentString = "";
 
         if (Array.isArray(data)) {
-            currentString += `&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; \n--- | ---\n`
-            data.forEach(row => {
+            currentString += `&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; \n--- | ---\n`;
+            data.forEach((row) => {
                 if (row.name) {
-                    currentString += `${row.name} | [Link](${row.link})\n`
+                    currentString += `${row.name} | [Link](${row.link}) | ${
+                        !row.description || row.description.length === 0 ? "-" : row.description
+                    }\n`;
                 }
             });
             currentString += nL + "---" + nL;
