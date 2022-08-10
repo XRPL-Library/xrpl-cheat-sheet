@@ -31,8 +31,8 @@ README.md file is derived from [xrpl-cheat-sheet.json](https://github.com/Tushar
 ###  ♦ All Purpose 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Bithomp | [Link](https://bithomp.com/) | -
+ --- | --- | --- 
+ Bithomp | [Link](https://bithomp.com/) | -
 XRPScan | [Link](https://xrpscan.com/) | -
 XRPlorer | [Link](https://xrplorer.com/) | -
 XRP Intel | [Link](https://xrpintel.com/) | -
@@ -46,8 +46,8 @@ XRPL ODL Rosetta | [Link](https://threexrp.dev/) | -
 ###  ♦ Dex 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Sologenic | [Link](https://sologenic.org/) | -
+ --- | --- | --- 
+ Sologenic | [Link](https://sologenic.org/) | -
 XRPLCoins | [Link](https://xrplcoins.com/dex/) | -
 XRP Toolkit | [Link](https://www.xrptoolkit.com/) | -
 XDEX | [Link](https://xdex.com/) | -
@@ -59,8 +59,8 @@ GateHub | [Link](https://gatehub.net/markets/) | -
 ###  ♦ Validators 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XRPScan | [Link](https://xrpscan.com/validators/) | -
+ --- | --- | --- 
+ XRPScan | [Link](https://xrpscan.com/validators/) | -
 XRPL Org | [Link](https://livenet.xrpl.org/network/validators) | -
 
 
@@ -69,8 +69,8 @@ XRPL Org | [Link](https://livenet.xrpl.org/network/validators) | -
 ###  ♦ Fungible Tokens 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XPMarket | [Link](https://xpmarket.io) | -
+ --- | --- | --- 
+ XPMarket | [Link](https://xpmarket.io) | -
 XRPL Services | [Link](https://xrpl.services/tokens/s) | -
 XRPL Org | [Link](https://livenet.xrpl.org/tokens/) | -
 OnTheDex.live | [Link](https://onthedex.live/) | -
@@ -81,8 +81,8 @@ OnTheDex.live | [Link](https://onthedex.live/) | -
 ###  ♦ XLS-14 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Bithomp | [Link](https://bithomp.com/) | -
+ --- | --- | --- 
+ Bithomp | [Link](https://bithomp.com/) | -
 
 
 ---
@@ -90,8 +90,8 @@ Bithomp | [Link](https://bithomp.com/) | -
 ###  ♦ XLS-20 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-
+ --- | --- | --- 
+ 
 
 ---
 
@@ -102,8 +102,8 @@ Bithomp | [Link](https://bithomp.com/) | -
 ###  ♦ Utilities 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XRPL.org Rippled Server Setup Guide | [Link](https://xrpl.org/manage-the-rippled-server.html) | -
+ --- | --- | --- 
+ XRPL.org Rippled Server Setup Guide | [Link](https://xrpl.org/manage-the-rippled-server.html) | -
 XRPL.org Clio Server Setup Guide | [Link](https://xrpl.org/manage-the-clio-server.html) | -
 XRPLF Node Configurator | [Link](https://xrplf.github.io/xrpl-node-configurator/#/) | -
 Docker Container - Run a node | [Link](https://github.com/WietseWind/docker-rippled) | -
@@ -124,8 +124,8 @@ Rippled Server Broadcasts | [Link](https://groups.google.com/g/ripple-server) | 
 #### ★ Javascript 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XRPL JS Library | [Link](https://github.com/XRPLF/xrpl.js) | -
+ --- | --- | --- 
+ XRPL JS Library | [Link](https://github.com/XRPLF/xrpl.js) | -
 XRPLL Websocket Client - NPM Package | [Link](https://www.npmjs.com/package/xrpl-client) | -
 XRPL AccountLib - NPM Package | [Link](https://www.npmjs.com/package/xrpl-accountlib) | -
 XRPL Transaction Data Fetcher - NPM Package | [Link](https://www.npmjs.com/package/xrpl-txdata) | -
@@ -141,8 +141,8 @@ Develop WebApp Using VueJS + Webpack (XRP) | [Link](https://itnext.io/develop-aw
 #### ★ Python 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XRPL Python Library | [Link](https://github.com/XRPLF/xrpl-py) | -
+ --- | --- | --- 
+ XRPL Python Library | [Link](https://github.com/XRPLF/xrpl-py) | -
 XRPL-monitor-ESP32 | [Link](https://github.com/dvilelaf/XRPL-monitor-ESP32) | -
 Dexter | [Link](https://github.com/hammertoe/dexter/) | -
 XUMM SDK PY | [Link](https://pypi.org/project/xumm-sdk-py/) | -
@@ -156,8 +156,8 @@ XRPL Tagged Address Codec | [Link](https://github.com/xrp-community/xrpl-tagged-
 #### ★ C++ 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Ripple Lib | [Link](https://github.com/ripple/ripple-libpp) | -
+ --- | --- | --- 
+ Ripple Lib | [Link](https://github.com/ripple/ripple-libpp) | -
 
 
 ---
@@ -165,8 +165,8 @@ Ripple Lib | [Link](https://github.com/ripple/ripple-libpp) | -
 #### ★ Golang 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Go Package to Interact with XRPL | [Link](https://github.com/rubblelabs/ripple) | -
+ --- | --- | --- 
+ Go Package to Interact with XRPL | [Link](https://github.com/rubblelabs/ripple) | -
 XRPL Transactions | [Link](https://github.com/rubblelabs/tx) | -
 
 
@@ -175,8 +175,8 @@ XRPL Transactions | [Link](https://github.com/rubblelabs/tx) | -
 #### ★ JAVA 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XRPL Java SDK | [Link](https://github.com/XRPLF/xrpl4j) | -
+ --- | --- | --- 
+ XRPL Java SDK | [Link](https://github.com/XRPLF/xrpl4j) | -
 XUMM JAVA SDK | [Link](https://github.com/francisrosario/xumm4j) | -
 
 
@@ -185,8 +185,8 @@ XUMM JAVA SDK | [Link](https://github.com/francisrosario/xumm4j) | -
 #### ★ PHP 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XUMM PHP | [Link](https://packagist.org/packages/xrpl/xumm-sdk-php) | -
+ --- | --- | --- 
+ XUMM PHP | [Link](https://packagist.org/packages/xrpl/xumm-sdk-php) | -
 Federation PHP | [Link](https://github.com/ripple-unmaintained/federation-php) | -
 
 
@@ -195,8 +195,8 @@ Federation PHP | [Link](https://github.com/ripple-unmaintained/federation-php) |
 #### ★ Ruby 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XRPL Ruby Library | [Link](https://github.com/DevNullProd/XRBP) | -
+ --- | --- | --- 
+ XRPL Ruby Library | [Link](https://github.com/DevNullProd/XRBP) | -
 Ripple Ruby Library | [Link](https://github.com/kevinejohn/ripple-lib-rpc-ruby/) | -
 Ripple Rails - by singpolyma | [Link](https://github.com/singpolyma/ripple-rails/) | -
 
@@ -206,8 +206,8 @@ Ripple Rails - by singpolyma | [Link](https://github.com/singpolyma/ripple-rails
 #### ★ .NET 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XUMM.NET.SDK | [Link](https://www.nuget.org/packages/XUMM.NET.SDK) | -
+ --- | --- | --- 
+ XUMM.NET.SDK | [Link](https://www.nuget.org/packages/XUMM.NET.SDK) | -
 
 
 ---
@@ -215,8 +215,8 @@ XUMM.NET.SDK | [Link](https://www.nuget.org/packages/XUMM.NET.SDK) | -
 #### ★ Haskell 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Ripple Client Protocol Haskell Implementation | [Link](https://github.com/singpolyma/ripple-haskell/) | -
+ --- | --- | --- 
+ Ripple Client Protocol Haskell Implementation | [Link](https://github.com/singpolyma/ripple-haskell/) | -
 
 
 ---
@@ -224,8 +224,8 @@ Ripple Client Protocol Haskell Implementation | [Link](https://github.com/singpo
 #### ★ Swift 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Ripple Kit IOS | [Link](https://github.com/xasos/RippleKit) | -
+ --- | --- | --- 
+ Ripple Kit IOS | [Link](https://github.com/xasos/RippleKit) | -
 
 
 ---
@@ -233,8 +233,8 @@ Ripple Kit IOS | [Link](https://github.com/xasos/RippleKit) | -
 #### ★ Rust 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XRPL Rust Package | [Link](https://github.com/sephynox/xrpl-rust) | -
+ --- | --- | --- 
+ XRPL Rust Package | [Link](https://github.com/sephynox/xrpl-rust) | -
 
 
 ---
@@ -242,8 +242,8 @@ XRPL Rust Package | [Link](https://github.com/sephynox/xrpl-rust) | -
 ###  ♦ APIs 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Sologenic XRPL Trading Data | [Link](https://github.com/sologenic/xrpl-trading-data/blob/main/docs.md) | -
+ --- | --- | --- 
+ Sologenic XRPL Trading Data | [Link](https://github.com/sologenic/xrpl-trading-data/blob/main/docs.md) | -
 OnTheDex.live | [Link](https://github.com/OnTheDEX/xrpledger-token-data-api/) | -
 XRPL Meta | [Link](https://xrplmeta.org) | -
 Public HTTP/Websocket APIs | [Link](https://xrpl.org/http-websocket-apis.html) | -
@@ -257,8 +257,8 @@ Ripple Blobvault V1 - Server for storing persistent data for Ripple clients | [L
 ###  ♦ Miscellaneous 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XRPL.ORG Dev Tools | [Link](https://xrpl.org/dev-tools.html) | -
+ --- | --- | --- 
+ XRPL.ORG Dev Tools | [Link](https://xrpl.org/dev-tools.html) | -
 XRPL Binary Visualiser | [Link](https://github.com/RichardAH/xrpl-binary-visualizer) | -
 XRP.FANS - Use for Dashboard Debugging & Dev | [Link](https://xrp.fans/) | -
 XRPL Composer - Create, visualize, and validate complex payment path | [Link](https://graph.trustline.co/#/) | -
@@ -280,8 +280,8 @@ X-Address Information | [Link](https://xrpaddress.info/) | -
 ###  ♦ Twitter 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Bithomp Price Alerts | [Link](https://twitter.com/BithompAlerts) | -
+ --- | --- | --- 
+ Bithomp Price Alerts | [Link](https://twitter.com/BithompAlerts) | -
 XRPL ODL Tracker | [Link](https://twitter.com/UtilityScan) | -
 XRPL Intelligence | [Link](https://twitter.com/xrp1ntel) | -
 CSC Alerts | [Link](https://twitter.com/CasinoCoinAlert) | -
@@ -292,16 +292,16 @@ CSC Alerts | [Link](https://twitter.com/CasinoCoinAlert) | -
 ###  ♦ Discord 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-
+ --- | --- | --- 
+ 
 
 ---
 
 ###  ♦ AMM 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-
+ --- | --- | --- 
+ 
 
 ---
 
@@ -312,8 +312,8 @@ CSC Alerts | [Link](https://twitter.com/CasinoCoinAlert) | -
 ###  ♦ Docs 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XRPL Hooks Documentation | [Link](https://xrpl-hooks.readme.io/docs/introduction) | -
+ --- | --- | --- 
+ XRPL Hooks Documentation | [Link](https://xrpl-hooks.readme.io/docs/introduction) | -
 
 
 ---
@@ -325,8 +325,8 @@ XRPL Hooks Documentation | [Link](https://xrpl-hooks.readme.io/docs/introduction
 ###  ♦ Docs 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Federated Sidechains | [Link](https://xrpl.org/federated-sidechains.html) | -
+ --- | --- | --- 
+ Federated Sidechains | [Link](https://xrpl.org/federated-sidechains.html) | -
 A vision for Federated Sidechains | [Link](https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o) | -
 
 
@@ -339,8 +339,8 @@ A vision for Federated Sidechains | [Link](https://dev.to/ripplexdev/a-vision-fo
 ###  ♦ Layer Two 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Evernode | [Link](https://evernode.wordpress.com/) | -
+ --- | --- | --- 
+ Evernode | [Link](https://evernode.wordpress.com/) | -
 
 
 ---
@@ -348,8 +348,8 @@ Evernode | [Link](https://evernode.wordpress.com/) | -
 ###  ♦ Gaming 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Ledger City | [Link](https://ledgercitygame.com/) | -
+ --- | --- | --- 
+ Ledger City | [Link](https://ledgercitygame.com/) | -
 
 
 ---
@@ -357,16 +357,16 @@ Ledger City | [Link](https://ledgercitygame.com/) | -
 ###  ♦ Charity 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-
+ --- | --- | --- 
+ 
 
 ---
 
 ###  ♦ Browser Extensions 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XPT - XRPL Portfolio Tracker | [Link](https://xptxrpl.com/) | -
+ --- | --- | --- 
+ XPT - XRPL Portfolio Tracker | [Link](https://xptxrpl.com/) | -
 
 
 ---
@@ -374,8 +374,8 @@ XPT - XRPL Portfolio Tracker | [Link](https://xptxrpl.com/) | -
 ###  ♦ Payments 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-PayString | [Link](https://paystring.org/) | -
+ --- | --- | --- 
+ PayString | [Link](https://paystring.org/) | -
 
 
 ---
@@ -385,8 +385,8 @@ PayString | [Link](https://paystring.org/) | -
 #### ★ Custodial 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Uphold | [Link](https://uphold.com/) | -
+ --- | --- | --- 
+ Uphold | [Link](https://uphold.com/) | -
 
 
 ---
@@ -396,8 +396,8 @@ Uphold | [Link](https://uphold.com/) | -
 ##### ‣ Software 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XUMM | [Link](https://xumm.app/) | -
+ --- | --- | --- 
+ XUMM | [Link](https://xumm.app/) | -
 GemWallet | [Link](https://gemwallet.app/docs/user-guide/introduction) | -
 Solo Wallet | [Link](https://www.sologenic.com/ecosystem/solo-wallet) | -
 
@@ -407,8 +407,8 @@ Solo Wallet | [Link](https://www.sologenic.com/ecosystem/solo-wallet) | -
 ##### ‣ Hardware 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Ledger | [Link](https://www.ledger.com/) | -
+ --- | --- | --- 
+ Ledger | [Link](https://www.ledger.com/) | -
 Trezor | [Link](https://trezor.io/) | -
 
 
@@ -417,8 +417,8 @@ Trezor | [Link](https://trezor.io/) | -
 ##### ‣ Paper 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Paper Account Generator | [Link](https://www.xrpaddress.org/) | -
+ --- | --- | --- 
+ Paper Account Generator | [Link](https://www.xrpaddress.org/) | -
 
 
 ---
@@ -426,8 +426,8 @@ Paper Account Generator | [Link](https://www.xrpaddress.org/) | -
 ###  ♦ Software As A Service 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-XRPL Services - All in one XRPL Tool | [Link](https://xrpl.services/) | -
+ --- | --- | --- 
+ XRPL Services - All in one XRPL Tool | [Link](https://xrpl.services/) | -
 Spend The Bits -  Mobile payments App | [Link](https://spendthebits.com/) | -
 XRPAYMENTS - Tool to generate payment request QR | [Link](https://xrpayments.co/) | -
 Block Trac - Monitor your blockchain account | [Link](https://blocktr.ac/) | -
@@ -444,8 +444,8 @@ Ripple ODL - uses XRPL | [Link](https://ripple.com/solutions/crypto-liquidity/) 
 ###  ♦ Links 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Discord | [Link]() | -
+ --- | --- | --- 
+ Discord | [Link]() | -
 Twitter | [Link]() | -
 Dev.to | [Link](https://dev.to/ripplexdev) | -
 XRPL Ideas Discussion | [Link](https://github.com/intelliot/xrpl-ideas/discussions) | -
@@ -460,8 +460,8 @@ XRPL Ideas Discussion | [Link](https://github.com/intelliot/xrpl-ideas/discussio
 ###  ♦ Cross Chains 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Wanchain | [Link](https://www.wanchain.org/) | -
+ --- | --- | --- 
+ Wanchain | [Link](https://www.wanchain.org/) | -
 Flare | [Link](https://flare.xyz/) | -
 
 
@@ -470,8 +470,8 @@ Flare | [Link](https://flare.xyz/) | -
 ###  ♦ Resources 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
---- | ---
-Awesome Ripple - A curated list of Ripple resources | [Link](https://github.com/vhpoet/awesome-ripple) | -
+ --- | --- | --- 
+ Awesome Ripple - A curated list of Ripple resources | [Link](https://github.com/vhpoet/awesome-ripple) | -
 Yyolk's Awesome XRPL List | [Link](https://github.com/yyolk/awesome-xrpl#readme) | -
 
 
