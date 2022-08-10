@@ -16,7 +16,7 @@ const main = () => {
         let currentString = "";
 
         if (Array.isArray(data)) {
-            currentString += `&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; \n--- | ---\n`;
+            currentString += `&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; \n --- | --- | --- \n `;
             data.forEach((row) => {
                 if (row.name) {
                     currentString += `${row.name} | [Link](${row.link}) | ${
