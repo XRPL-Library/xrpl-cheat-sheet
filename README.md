@@ -273,6 +273,15 @@ X-Address Information | [Link](https://xrpaddress.info/) | -
 
 ---
 
+###  ♦ Merchants 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
+ --- | --- | --- 
+XRPL Merch | [Link](https://xrplmerch.com) | The go to shop for all your XRPL Clothing and Merch. Save 10% at checkout when you #PayWithXUMM.
+
+
+---
+
 ## ➼ Bots 
 
 > An autonomous programme that can interact with XRP Ledger.
