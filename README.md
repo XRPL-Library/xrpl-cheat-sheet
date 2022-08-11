@@ -351,6 +351,7 @@ A vision for Federated Sidechains | [Link](https://dev.to/ripplexdev/a-vision-fo
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
  --- | --- | --- 
  Ledger City | [Link](https://ledgercitygame.com/) | -
+Zerpcraft | [Link](https://www.zerpcraft.com/) | A Minecraft Tokenization Project Built on the XRP Ledger
 
 
 ---
