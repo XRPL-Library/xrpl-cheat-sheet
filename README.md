@@ -377,6 +377,7 @@ A vision for Federated Sidechains | [Link](https://dev.to/ripplexdev/a-vision-fo
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
  --- | --- | --- 
  PayString | [Link](https://paystring.org/) | -
+CryptoIso20022 Interop | [Link](https://github.com/radynamics/CryptoIso20022Interop) | Send / receive XRPL payments using ISO 20022 formats
 
 
 ---
