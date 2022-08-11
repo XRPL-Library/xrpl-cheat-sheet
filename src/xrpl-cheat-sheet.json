@@ -370,6 +370,22 @@
                 "description": ""
             }
         ],
+        "Price Oracles": [
+            {
+                "name": "XRPL Labs Price Aggregator",
+                "link": "https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle",
+                "description": ""
+            },
+            {
+                "name": "XRP-Oracles",
+                "link": "https://github.com/lathanbritz/XRP-Oracles"
+            },
+            {
+                "name": "radynamics Price Oracle",
+                "link": "https://github.com/radynamics/XRP-Oracles",
+                "description": ""
+            }
+        ],
         "Miscellaneous": [
             {
                 "name": "XRPL.ORG Dev Tools",
