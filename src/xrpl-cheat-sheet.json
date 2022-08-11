@@ -510,6 +510,11 @@
                 "name": "PayString",
                 "link": "https://paystring.org/",
                 "description": ""
+            },
+            {
+                "name": "CryptoIso20022 Interop",
+                "link": "https://github.com/radynamics/CryptoIso20022Interop",
+                "description": "Send / receive XRPL payments using ISO 20022 formats"
             }
         ],
         "Wallets": {
