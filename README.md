@@ -255,6 +255,17 @@ Ripple Blobvault V1 - Server for storing persistent data for Ripple clients | [L
 
 ---
 
+###  ♦ Price Oracles 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
+ --- | --- | --- 
+ XRPL Labs Price Aggregator | [Link](https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle) | -
+XRP-Oracles | [Link](https://github.com/lathanbritz/XRP-Oracles) | -
+radynamics Price Oracle | [Link](https://github.com/radynamics/XRP-Oracles) | -
+
+
+---
+
 ###  ♦ Miscellaneous 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; 
