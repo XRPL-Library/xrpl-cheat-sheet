@@ -495,6 +495,11 @@
                 "name": "Ledger City",
                 "link": "https://ledgercitygame.com/",
                 "description": ""
+            },
+            {
+                "name": "Zerpcraft",
+                "link": "https://www.zerpcraft.com/",
+                "description": "A Minecraft Tokenization Project Built on the XRP Ledger"
             }
         ],
         "Charity": [],
