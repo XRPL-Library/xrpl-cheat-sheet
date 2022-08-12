@@ -8,7 +8,7 @@
 
 </div>
 
-<div class="intro">## ➼ Introduction 
+## ➼ Introduction 
 
  
 ###  ♦ General 
@@ -24,7 +24,7 @@ README.md file is derived from [xrpl-cheat-sheet.json](https://github.com/Tushar
 
  > [Bonus]: This list will be used in "Useful Links/Projects" Section of [XPT Browser Extension](https://xptxrpl.com/).
 
- </div>## ➼ Explorers 
+## ➼ Explorers 
 
 > Tools to display information related to XRP Ledger
 
