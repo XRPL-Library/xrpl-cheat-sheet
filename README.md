@@ -1,4 +1,4 @@
-<div align="center" style="font-size:30px;">
+<div class="heading" align="center" style="font-size:30px;">
 
  # XRP Ledger Cheat Sheet
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## ➼ Introduction 
+<div class="intro">## ➼ Introduction 
 
  
 ###  ♦ General 
@@ -24,7 +24,7 @@ README.md file is derived from [xrpl-cheat-sheet.json](https://github.com/Tushar
 
  > [Bonus]: This list will be used in "Useful Links/Projects" Section of [XPT Browser Extension](https://xptxrpl.com/).
 
-## ➼ Explorers 
+ </div>## ➼ Explorers 
 
 > Tools to display information related to XRP Ledger
 
