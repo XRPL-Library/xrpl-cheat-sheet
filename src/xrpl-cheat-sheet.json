@@ -5,105 +5,100 @@
             {
                 "name": "Bithomp",
                 "link": "https://bithomp.com/",
-                "description": ""
+                "description": "XRP explorer"
             },
             {
                 "name": "XRPScan",
                 "link": "https://xrpscan.com/",
-                "description": ""
+                "description": "Your gateway to the XRP Ledger - The home of XRP"
             },
             {
                 "name": "XRPlorer",
                 "link": "https://xrplorer.com/",
-                "description": ""
+                "description": "Go-to resource for insights, analytics, and AML data for the XRP ledger."
             },
             {
                 "name": "XRP Intel",
                 "link": "https://xrpintel.com/",
-                "description": ""
+                "description": "XRP network monitor and analyzer. "
             },
             {
                 "name": "Livenet XRPL Org",
                 "link": "https://livenet.xrpl.org/",
-                "description": ""
+                "description": "XRPL explorer"
             },
             {
                 "name": "XRPLF Ledger Explorer",
                 "link": "https://explorer.xrplf.org/",
-                "description": ""
+                "description": "Ledger explorer, Work in progress, EARLY BETA"
             },
             {
                 "name": "XRPL ODL Rosetta",
                 "link": "https://threexrp.dev/",
-                "description": ""
+                "description": "Track realtime XRPL transactions."
             }
         ],
         "Dex": [
             {
                 "name": "Sologenic",
                 "link": "https://sologenic.org/",
-                "description": ""
+                "description": "Jump into the Future of DeFi with Sologenic"
             },
             {
                 "name": "XRPLCoins",
                 "link": "https://xrplcoins.com/dex/",
-                "description": ""
+                "description": "XRPL Coins is an intuitive Web 3.0 platform"
             },
             {
                 "name": "XRP Toolkit",
                 "link": "https://www.xrptoolkit.com/",
-                "description": ""
+                "description": "Trade on the XRP Ledger"
             },
             {
                 "name": "XDEX",
                 "link": "https://xdex.com/",
-                "description": ""
+                "description": "The easiest interface for the XRPL decentralized exchange."
             },
             {
                 "name": "GateHub",
                 "link": "https://gatehub.net/markets/",
-                "description": ""
+                "description": "Your digital asset wallet for the Internet of Value"
             }
         ],
         "Validators": [
             {
                 "name": "XRPScan",
                 "link": "https://xrpscan.com/validators/",
-                "description": ""
+                "description": "View information about validators"
             },
             {
                 "name": "XRPL Org",
                 "link": "https://livenet.xrpl.org/network/validators",
-                "description": ""
+                "description": "Information about nodes & validators"
             }
         ],
         "Fungible Tokens": [
             {
                 "name": "XPMarket",
                 "link": "https://xpmarket.io",
-                "description": ""
+                "description": "XRPL asset management tool."
             },
             {
                 "name": "XRPL Services",
                 "link": "https://xrpl.services/tokens/s",
-                "description": ""
-            },
-            {
-                "name": "XRPL Org",
-                "link": "https://livenet.xrpl.org/tokens/",
-                "description": ""
+                "description": "Services related to XRPL."
             },
             {
                 "name": "OnTheDex.live",
                 "link": "https://onthedex.live/",
-                "description": ""
+                "description": "Explore any traded token on the XRP Ledger."
             }
         ],
         "XLS-14": [
             {
                 "name": "Bithomp",
                 "link": "https://bithomp.com/",
-                "description": ""
+                "description": "XRP explorer"
             }
         ],
         "XLS-20": []
@@ -114,42 +109,42 @@
             {
                 "name": "XRPL.org Rippled Server Setup Guide",
                 "link": "https://xrpl.org/manage-the-rippled-server.html",
-                "description": ""
+                "description": "Run a rippled server"
             },
             {
                 "name": "XRPL.org Clio Server Setup Guide",
                 "link": "https://xrpl.org/manage-the-clio-server.html",
-                "description": ""
+                "description": "Run a clio node"
             },
             {
                 "name": "XRPLF Node Configurator",
                 "link": "https://xrplf.github.io/xrpl-node-configurator/#/",
-                "description": ""
+                "description": "Configure your node"
             },
             {
                 "name": "Docker Container - Run a node",
                 "link": "https://github.com/WietseWind/docker-rippled",
-                "description": ""
+                "description": "Run a node with docker"
             },
             {
                 "name": "Docker Container - Run a validator",
                 "link": "https://github.com/WietseWind/docker-rippled-validator",
-                "description": ""
+                "description": "Run a validator with docker"
             },
             {
                 "name": "Rippled on Rasberry Pi 4",
                 "link": "https://write.as/dvilela/running-an-xrpl-validator-on-a-raspberry-pi-4",
-                "description": ""
+                "description": "Running an XRPL validator on a Raspberry Pi 4"
             },
             {
                 "name": "OtherServices - Ripple Validator Guide",
                 "link": "https://github.com/OtterServices/RippledValidatorGuide/blob/main/XRP_Ledger_Linux_Validator_Initialization_Guide_V1%20(2).pdf",
-                "description": ""
+                "description": "Guide for validator setup"
             },
             {
                 "name": "Rippled Server Broadcasts",
                 "link": "https://groups.google.com/g/ripple-server",
-                "description": ""
+                "description": "Google group for Rippled server"
             }
         ]
     },
