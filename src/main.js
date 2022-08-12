@@ -15,7 +15,7 @@ const main = () => {
         let currentString = "";
 
         if (Array.isArray(data)) {
-            currentString += `&nbsp;&nbsp;&nbsp;&nbsp;Name&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Link&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;Description&nbsp;&nbsp;&nbsp;&nbsp; \n --- | --- | --- \n `;
+            currentString += `Name | Link | Description \n --- | --- | --- \n `;
             data.forEach((row) => {
                 if (row.name) {
                     currentString += `${row.name} | [Link](${row.link}) | ${
@@ -45,9 +45,8 @@ const main = () => {
     )} ${
         bullet_symbols[1]
     } Add your project! ${nL} 1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) \n 2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com", description: "Checkout my new project" }. \n 3. After successful merge README.md file will auto update, and your project will be visible.${nL} > [Bonus]: This list will be used in "Useful Links/Projects" Section of [XPT Browser Extension](https://xptxrpl.com/).${nL}`;
-    let credits = `${hash.repeat(2)} ${bullet_symbols[0]} Credits ${nL}`;
 
-    let MD_DATA = header + intro + convertToMd(xrplSheetJson, 2) + credits;
+    let MD_DATA = header + intro + convertToMd(xrplSheetJson, 2);
 
     fs.writeFileSync("README.md", MD_DATA);
 };
