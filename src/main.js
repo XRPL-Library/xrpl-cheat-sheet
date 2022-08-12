@@ -38,7 +38,7 @@ const main = () => {
     };
 
     let header = `<div class="heading" align="center" style="font-size:30px;">${nL} ${hash} XRP Ledger Cheat Sheet${nL} A curated list of everything related to the XRP Ledger.${nL}<img src="./src/XRPL.svg" style="padding:10px" onclick=" "/>${nL}</div>${nL}`;
-    let contribute = `${hash.repeat(2)} ${bullet_symbols[0]} Contribute ${nL} \n${hash.repeat(3)} ${bullet_symbols[1]} Add your project! ${nL} 1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) \n 2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com", description: "Checkout my new project" }. \n 3. After successful merge README.md file will auto update, and your project will be visible.${nL}`;
+    let contribute = `${hash.repeat(2)} ${bullet_symbols[0]} Contribute ${nL} \n${hash.repeat(3)} ${bullet_symbols[1]} Add any project! ${nL} 1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) \n 2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com", description: "Checkout my new project" }. \n 3. After successful merge README.md file will auto update, and your project will be visible.${nL}`;
 
     let MD_DATA = header + convertToMd(xrplSheetJson, 2) + contribute;
 
