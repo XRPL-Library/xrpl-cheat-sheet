@@ -15,10 +15,10 @@ const main = () => {
         let currentString = "";
 
         if (Array.isArray(data)) {
-            currentString += `Name | Link | Description \n --- | --- | --- \n `;
+            currentString += `Name | Description \n --- | --- \n`;
             data.forEach((row) => {
                 if (row.name) {
-                    currentString += `${row.name} | <a href="${row.link}" target="_blank">Link</a> | ${
+                    currentString += `<a href="${row.link}" target="_blank">${row.name}</a> | ${
                         !row.description || row.description.length === 0 ? "-" : row.description
                     }\n`;
                 }
