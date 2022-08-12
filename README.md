@@ -493,7 +493,9 @@ Name | Link | Description
  
 ###  ♦ Add any project! 
 
- 1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) 
- 2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com", description: "Checkout my new project" }. 
- 3. After successful merge README.md file will auto update, and your project will be visible.
+ 1. Login with your github account. 
+ 2. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) 
+ 3. Add your project with the same format as that in JSON file { name: "ABC" , link: "xyz.com", description: "Checkout my new project" } or you can propose additional fields like logo etc. 
+ 4. Raise a pull request. 
+ 5. After successful merge README.md file will auto update, and your project will be visible.
 
