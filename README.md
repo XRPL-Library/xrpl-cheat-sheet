@@ -16,13 +16,13 @@
 
 Name | Description 
  --- | --- 
-<a href="https://bithomp.com/" target="_blank">Bithomp</a> | -
-<a href="https://xrpscan.com/" target="_blank">XRPScan</a> | -
-<a href="https://xrplorer.com/" target="_blank">XRPlorer</a> | -
-<a href="https://xrpintel.com/" target="_blank">XRP Intel</a> | -
-<a href="https://livenet.xrpl.org/" target="_blank">Livenet XRPL Org</a> | -
-<a href="https://explorer.xrplf.org/" target="_blank">XRPLF Ledger Explorer</a> | -
-<a href="https://threexrp.dev/" target="_blank">XRPL ODL Rosetta</a> | -
+<a href="https://bithomp.com/" target="_blank">Bithomp</a> | XRP explorer
+<a href="https://xrpscan.com/" target="_blank">XRPScan</a> | Your gateway to the XRP Ledger - The home of XRP
+<a href="https://xrplorer.com/" target="_blank">XRPlorer</a> | Go-to resource for insights, analytics, and AML data for the XRP ledger.
+<a href="https://xrpintel.com/" target="_blank">XRP Intel</a> | XRP network monitor and analyzer. 
+<a href="https://livenet.xrpl.org/" target="_blank">Livenet XRPL Org</a> | XRPL explorer
+<a href="https://explorer.xrplf.org/" target="_blank">XRPLF Ledger Explorer</a> | Ledger explorer, Work in progress, EARLY BETA
+<a href="https://threexrp.dev/" target="_blank">XRPL ODL Rosetta</a> | Track realtime XRPL transactions.
 
 
 ---
@@ -31,11 +31,11 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://sologenic.org/" target="_blank">Sologenic</a> | -
-<a href="https://xrplcoins.com/dex/" target="_blank">XRPLCoins</a> | -
-<a href="https://www.xrptoolkit.com/" target="_blank">XRP Toolkit</a> | -
-<a href="https://xdex.com/" target="_blank">XDEX</a> | -
-<a href="https://gatehub.net/markets/" target="_blank">GateHub</a> | -
+<a href="https://sologenic.org/" target="_blank">Sologenic</a> | Jump into the Future of DeFi with Sologenic
+<a href="https://xrplcoins.com/dex/" target="_blank">XRPLCoins</a> | XRPL Coins is an intuitive Web 3.0 platform
+<a href="https://www.xrptoolkit.com/" target="_blank">XRP Toolkit</a> | Trade on the XRP Ledger
+<a href="https://xdex.com/" target="_blank">XDEX</a> | The easiest interface for the XRPL decentralized exchange.
+<a href="https://gatehub.net/markets/" target="_blank">GateHub</a> | Your digital asset wallet for the Internet of Value
 
 
 ---
@@ -44,8 +44,8 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://xrpscan.com/validators/" target="_blank">XRPScan</a> | -
-<a href="https://livenet.xrpl.org/network/validators" target="_blank">XRPL Org</a> | -
+<a href="https://xrpscan.com/validators/" target="_blank">XRPScan</a> | View information about validators
+<a href="https://livenet.xrpl.org/network/validators" target="_blank">XRPL Org</a> | Information about nodes & validators
 
 
 ---
@@ -54,10 +54,9 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://xpmarket.io" target="_blank">XPMarket</a> | -
-<a href="https://xrpl.services/tokens/s" target="_blank">XRPL Services</a> | -
-<a href="https://livenet.xrpl.org/tokens/" target="_blank">XRPL Org</a> | -
-<a href="https://onthedex.live/" target="_blank">OnTheDex.live</a> | -
+<a href="https://xpmarket.io" target="_blank">XPMarket</a> | XRPL asset management tool.
+<a href="https://xrpl.services/tokens/s" target="_blank">XRPL Services</a> | Services related to XRPL.
+<a href="https://onthedex.live/" target="_blank">OnTheDex.live</a> | Explore any traded token on the XRP Ledger.
 
 
 ---
@@ -66,7 +65,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://bithomp.com/" target="_blank">Bithomp</a> | -
+<a href="https://bithomp.com/" target="_blank">Bithomp</a> | XRP explorer
 
 
 ---
@@ -87,14 +86,14 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://xrpl.org/manage-the-rippled-server.html" target="_blank">XRPL.org Rippled Server Setup Guide</a> | -
-<a href="https://xrpl.org/manage-the-clio-server.html" target="_blank">XRPL.org Clio Server Setup Guide</a> | -
-<a href="https://xrplf.github.io/xrpl-node-configurator/#/" target="_blank">XRPLF Node Configurator</a> | -
-<a href="https://github.com/WietseWind/docker-rippled" target="_blank">Docker Container - Run a node</a> | -
-<a href="https://github.com/WietseWind/docker-rippled-validator" target="_blank">Docker Container - Run a validator</a> | -
-<a href="https://write.as/dvilela/running-an-xrpl-validator-on-a-raspberry-pi-4" target="_blank">Rippled on Rasberry Pi 4</a> | -
-<a href="https://github.com/OtterServices/RippledValidatorGuide/blob/main/XRP_Ledger_Linux_Validator_Initialization_Guide_V1%20(2).pdf" target="_blank">OtherServices - Ripple Validator Guide</a> | -
-<a href="https://groups.google.com/g/ripple-server" target="_blank">Rippled Server Broadcasts</a> | -
+<a href="https://xrpl.org/manage-the-rippled-server.html" target="_blank">XRPL.org Rippled Server Setup Guide</a> | Run a rippled server
+<a href="https://xrpl.org/manage-the-clio-server.html" target="_blank">XRPL.org Clio Server Setup Guide</a> | Run a clio node
+<a href="https://xrplf.github.io/xrpl-node-configurator/#/" target="_blank">XRPLF Node Configurator</a> | Configure your node
+<a href="https://github.com/WietseWind/docker-rippled" target="_blank">Docker Container - Run a node</a> | Run a node with docker
+<a href="https://github.com/WietseWind/docker-rippled-validator" target="_blank">Docker Container - Run a validator</a> | Run a validator with docker
+<a href="https://write.as/dvilela/running-an-xrpl-validator-on-a-raspberry-pi-4" target="_blank">Rippled on Rasberry Pi 4</a> | Running an XRPL validator on a Raspberry Pi 4
+<a href="https://github.com/OtterServices/RippledValidatorGuide/blob/main/XRP_Ledger_Linux_Validator_Initialization_Guide_V1%20(2).pdf" target="_blank">OtherServices - Ripple Validator Guide</a> | Guide for validator setup
+<a href="https://groups.google.com/g/ripple-server" target="_blank">Rippled Server Broadcasts</a> | Google group for Rippled server
 
 
 ---
