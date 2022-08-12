@@ -18,7 +18,7 @@ const main = () => {
             currentString += `Name | Link | Description \n --- | --- | --- \n `;
             data.forEach((row) => {
                 if (row.name) {
-                    currentString += `${row.name} | [Link](${row.link}) | ${
+                    currentString += `${row.name} | <a href="${row.link}" target="_blank">Link</a> | ${
                         !row.description || row.description.length === 0 ? "-" : row.description
                     }\n`;
                 }
