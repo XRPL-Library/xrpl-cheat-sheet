@@ -497,5 +497,3 @@ Name | Link | Description
  2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com", description: "Checkout my new project" }. 
  3. After successful merge README.md file will auto update, and your project will be visible.
 
- > [Bonus]: This list will be used in "Useful Links/Projects" Section of [XPT Browser Extension](https://xptxrpl.com/).
-
