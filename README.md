@@ -491,7 +491,7 @@ Name | Link | Description
 ## ➼ Contribute 
 
  
-###  ♦ Add your project! 
+###  ♦ Add any project! 
 
  1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) 
  2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com", description: "Checkout my new project" }. 
