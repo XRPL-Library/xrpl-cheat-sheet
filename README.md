@@ -8,22 +8,6 @@
 
 </div>
 
-## ➼ Introduction 
-
- 
-###  ♦ General 
-
-This repository is a collection of projects, links and useful resources related to XRP Ledger.
-README.md file is derived from [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json), one can directly use this JSON file to integrate with their application.
-
-###  ♦ Add your project! 
-
- 1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) 
- 2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com", description: "Checkout my new project" }. 
- 3. After successful merge README.md file will auto update, and your project will be visible.
-
- > [Bonus]: This list will be used in "Useful Links/Projects" Section of [XPT Browser Extension](https://xptxrpl.com/).
-
 ## ➼ Explorers 
 
 > Tools to display information related to XRP Ledger
@@ -503,4 +487,20 @@ Name | Link | Description
 
 
 ---
+
+## ➼ Contribute 
+
+ 
+###  ♦ General 
+
+This repository is a collection of projects, links and useful resources related to XRP Ledger.
+README.md file is derived from [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json), one can directly use this JSON file to integrate with their application.
+
+###  ♦ Add your project! 
+
+ 1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) 
+ 2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com", description: "Checkout my new project" }. 
+ 3. After successful merge README.md file will auto update, and your project will be visible.
+
+ > [Bonus]: This list will be used in "Useful Links/Projects" Section of [XPT Browser Extension](https://xptxrpl.com/).
 
