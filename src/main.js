@@ -37,14 +37,14 @@ const main = () => {
         return currentString;
     };
 
-    let header = `<div align="center" style="font-size:30px;">${nL} ${hash} XRP Ledger Cheat Sheet${nL} A curated list of everything related to the XRP Ledger.${nL}<img src="./src/XRPL.svg" style="padding:10px" onclick=" "/>${nL}</div>${nL}`;
-    let intro = `${hash.repeat(2)} ${bullet_symbols[0]} Introduction ${nL} \n${hash.repeat(3)} ${
+    let header = `<div class="heading" align="center" style="font-size:30px;">${nL} ${hash} XRP Ledger Cheat Sheet${nL} A curated list of everything related to the XRP Ledger.${nL}<img src="./src/XRPL.svg" style="padding:10px" onclick=" "/>${nL}</div>${nL}`;
+    let intro = `<div class="intro">${hash.repeat(2)} ${bullet_symbols[0]} Introduction ${nL} \n${hash.repeat(3)} ${
         bullet_symbols[1]
     } General ${nL}This repository is a collection of projects, links and useful resources related to XRP Ledger.\nREADME.md file is derived from [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json), one can directly use this JSON file to integrate with their application.${nL}${hash.repeat(
         3
     )} ${
         bullet_symbols[1]
-    } Add your project! ${nL} 1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) \n 2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com", description: "Checkout my new project" }. \n 3. After successful merge README.md file will auto update, and your project will be visible.${nL} > [Bonus]: This list will be used in "Useful Links/Projects" Section of [XPT Browser Extension](https://xptxrpl.com/).${nL}`;
+    } Add your project! ${nL} 1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) \n 2. Add your project with the same format as that in JSON file i.e. { name: "ABC" , link: "xyz.com", description: "Checkout my new project" }. \n 3. After successful merge README.md file will auto update, and your project will be visible.${nL} > [Bonus]: This list will be used in "Useful Links/Projects" Section of [XPT Browser Extension](https://xptxrpl.com/).${nL} </div>`;
 
     let MD_DATA = header + intro + convertToMd(xrplSheetJson, 2);
 
