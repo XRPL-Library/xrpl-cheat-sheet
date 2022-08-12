@@ -488,14 +488,6 @@ Name | Link | Description
 
 ---
 
-## ➼ Contribute 
-
- 
-###  ♦ General 
-
-This repository is a collection of projects, links and useful resources related to XRP Ledger.
-README.md file is derived from [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json), one can directly use this JSON file to integrate with their application.
-
 ###  ♦ Add your project! 
 
  1. Go to the file [xrpl-cheat-sheet.json](https://github.com/TusharPardhe/xrpl-cheat-sheet/blob/master/src/xrpl-cheat-sheet.json) 
