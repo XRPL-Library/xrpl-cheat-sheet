@@ -155,172 +155,167 @@
                 {
                     "name": "XRPL JS Library",
                     "link": "https://github.com/XRPLF/xrpl.js",
-                    "description": ""
+                    "description": "A JavaScript/TypeScript library for interacting with the XRP Ledger."
                 },
                 {
                     "name": "XRPLL Websocket Client - NPM Package",
                     "link": "https://www.npmjs.com/package/xrpl-client",
-                    "description": ""
+                    "description": "Auto reconnecting, buffering, subscription remembering XRP Ledger WebSocket client. For in node & the browser"
                 },
                 {
                     "name": "XRPL AccountLib - NPM Package",
                     "link": "https://www.npmjs.com/package/xrpl-accountlib",
-                    "description": ""
+                    "description": "XRPL Account helper: generation, derivation and signing."
                 },
                 {
                     "name": "XRPL Transaction Data Fetcher - NPM Package",
                     "link": "https://www.npmjs.com/package/xrpl-txdata",
-                    "description": ""
+                    "description": "This library allows you to fetch XRP ledger transaction outcome from a number of (full history) XRP ledger nodes."
                 },
                 {
                     "name": "Node-Red Modules: Fully interact with XRPL",
                     "link": "https://github.com/xrpinnovations/node-red-contrib-xrpl",
-                    "description": ""
+                    "description": "Interact with the XRP Ledger directly from Node-Red."
                 },
                 {
                     "name": "XUMM SDK - JS/TS",
                     "link": "https://github.com/XRPL-Labs/XUMM-SDK",
-                    "description": ""
-                },
-                {
-                    "name": "Ripple Restful APIs - [DEV Frozen]",
-                    "link": "https://github.com/ripple/ripple-rest",
-                    "description": ""
+                    "description": "Interact with the XUMM SDK from Javascript / Typescript environments."
                 },
                 {
                     "name": "Wallet Desktop client for vue-electron",
                     "link": "https://github.com/devjin0617/ripplectron",
-                    "description": ""
+                    "description": "Ripple(Blockchain coin) Wallet Desktop client for vue-electron"
                 },
                 {
                     "name": "Develop WebApp Using VueJS + Webpack (XRP)",
                     "link": "https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c",
-                    "description": ""
+                    "description": "Guide to develop webapp with VueJS"
+                },
+                {
+                    "name": "XRPL Tagged Address Codec",
+                    "link": "https://github.com/xrp-community/xrpl-tagged-address-codec",
+                    "description": "Encode and Decode an XRPL account address and destination tag to/from X-formatted (tagged) address."
                 }
             ],
             "Python": [
                 {
                     "name": "XRPL Python Library",
                     "link": "https://github.com/XRPLF/xrpl-py",
-                    "description": ""
+                    "description": "A pure Python implementation for interacting with the XRP Ledger."
                 },
                 {
                     "name": "XRPL-monitor-ESP32",
                     "link": "https://github.com/dvilelaf/XRPL-monitor-ESP32",
-                    "description": ""
+                    "description": "XRPL monitor is a micropython script to monitor the XRP Ledger volume and price."
                 },
                 {
                     "name": "Dexter",
                     "link": "https://github.com/hammertoe/dexter/",
-                    "description": ""
+                    "description": "A tool for creating orders on the XRP Ledger DEX."
                 },
                 {
                     "name": "XUMM SDK PY",
                     "link": "https://pypi.org/project/xumm-sdk-py/",
-                    "description": ""
+                    "description": "Interact with the XUMM SDK from Python environments."
                 },
                 {
                     "name": "CoinClub Framework [XRP] Python",
                     "link": "https://github.com/QCloud-DevOps/CoinClub_Framework",
-                    "description": ""
+                    "description": "CoinClub Framework [XRP] Python Documentation."
                 },
                 {
                     "name": "Federation Python",
                     "link": "https://github.com/miracle2k/ripple-federation-python",
-                    "description": ""
-                },
-                {
-                    "name": "XRPL Tagged Address Codec",
-                    "link": "https://github.com/xrp-community/xrpl-tagged-address-codec",
-                    "description": ""
+                    "description": " Integrate into your site to receive Ripple payments at you@yourdomain.org."
                 }
             ],
             "C++": [
                 {
                     "name": "Ripple Lib",
                     "link": "https://github.com/ripple/ripple-libpp",
-                    "description": ""
+                    "description": "C++ library to create, sign, and serialize Ripple transactions before submission."
                 }
             ],
             "Golang": [
                 {
                     "name": "Go Package to Interact with XRPL",
                     "link": "https://github.com/rubblelabs/ripple",
-                    "description": ""
+                    "description": "Go packages to interact with the Ripple protocol."
                 },
                 {
                     "name": "XRPL Transactions",
                     "link": "https://github.com/rubblelabs/tx",
-                    "description": ""
+                    "description": "Tool for executing transactions on the Ripple network."
                 }
             ],
             "JAVA": [
                 {
                     "name": "XRPL Java SDK",
                     "link": "https://github.com/XRPLF/xrpl4j",
-                    "description": ""
+                    "description": "A pure Java implementation of the core functionality necessary to interact with the XRP Ledger."
                 },
                 {
                     "name": "XUMM JAVA SDK",
                     "link": "https://github.com/francisrosario/xumm4j",
-                    "description": ""
+                    "description": "Interact with the XUMM API from Java environments."
                 }
             ],
             "PHP": [
                 {
                     "name": "XUMM PHP",
                     "link": "https://packagist.org/packages/xrpl/xumm-sdk-php",
-                    "description": ""
+                    "description": "A PHP SDK for Xumm by XRPLabs."
                 },
                 {
                     "name": "Federation PHP",
                     "link": "https://github.com/ripple-unmaintained/federation-php",
-                    "description": ""
+                    "description": "This projects provides some PHP example code to set up a trivial federation endpoint with a static list of users."
                 }
             ],
             "Ruby": [
                 {
                     "name": "XRPL Ruby Library",
                     "link": "https://github.com/DevNullProd/XRBP",
-                    "description": ""
+                    "description": "XRBP is a rubygem which provides a fault-tolerant interface to the XRP ledger."
                 },
                 {
                     "name": "Ripple Ruby Library",
                     "link": "https://github.com/kevinejohn/ripple-lib-rpc-ruby/",
-                    "description": ""
+                    "description": "Ripple Client Ruby Gem"
                 },
                 {
                     "name": "Ripple Rails - by singpolyma",
                     "link": "https://github.com/singpolyma/ripple-rails/",
-                    "description": ""
+                    "description": "This gem provides a simple facility for integrating the Ripple payment system into a Rails project."
                 }
             ],
             ".NET": [
                 {
                     "name": "XUMM.NET.SDK",
                     "link": "https://www.nuget.org/packages/XUMM.NET.SDK",
-                    "description": ""
+                    "description": "Interact with the XUMM SDK from .NET / C# environments."
                 }
             ],
             "Haskell": [
                 {
                     "name": "Ripple Client Protocol Haskell Implementation",
                     "link": "https://github.com/singpolyma/ripple-haskell/",
-                    "description": ""
+                    "description": "Interact with Ripple servers, sign transactions, etc."
                 }
             ],
             "Swift": [
                 {
                     "name": "Ripple Kit IOS",
                     "link": "https://github.com/xasos/RippleKit",
-                    "description": ""
+                    "description": "Swift iOS interface to the Ripple Consensus Ledger."
                 }
             ],
             "Rust": [
                 {
                     "name": "XRPL Rust Package",
                     "link": "https://github.com/sephynox/xrpl-rust",
-                    "description": ""
+                    "description": "A Rust library to interact with the XRPL. Based off of the xrpl-py library."
                 },
                 {
                     "name": "XRP Ledger SDK for Rust",
@@ -333,36 +328,37 @@
             {
                 "name": "Sologenic XRPL Trading Data",
                 "link": "https://github.com/sologenic/xrpl-trading-data/blob/main/docs.md",
-                "description": ""
+                "description": "This API is currently in BETA mode and minor changes in further releases will be compatible."
             },
             {
                 "name": "OnTheDex.live",
-                "link": "https://github.com/OnTheDEX/xrpledger-token-data-api/"
+                "link": "https://github.com/OnTheDEX/xrpledger-token-data-api/",
+                "description": "This API offers accurate and up-to-date token trading data for all tokens traded on the XRP Ledger DEX."
             },
             {
                 "name": "XRPL Meta",
                 "link": "https://xrplmeta.org",
-                "description": ""
+                "description": "XRPL Meta provides the data that is not obtainable by the standard rippled API."
             },
             {
                 "name": "Public HTTP/Websocket APIs",
                 "link": "https://xrpl.org/http-websocket-apis.html",
-                "description": ""
+                "description": "Communicate directly with rippled, the core peer-to-peer server that manages the XRP Ledger."
             },
             {
                 "name": "Ripple Data API V2 - [Depreceated]",
                 "link": "https://github.com/ripple/rippled-historical-database",
-                "description": ""
+                "description": "The Ripple Data API v2 provides access to information about changes in the XRP Ledger."
             },
             {
                 "name": "Ripple Charts API - [Depreceated]",
                 "link": "https://github.com/ripple/ripple-data-api",
-                "description": ""
+                "description": "The Ripple Charts API, also known as the Data API, provides past and present information about the state of the network."
             },
             {
                 "name": "Ripple Blobvault V1 - Server for storing persistent data for Ripple clients",
                 "link": "https://github.com/ripple/ripple-blobvault",
-                "description": ""
+                "description": "This API provides access to the Ripple Blobvaut."
             }
         ],
         "Price Oracles": [
@@ -675,7 +671,18 @@
                 "description": "Your go to shop for XRPL based merchandise. We are open to collaboration and customization of products. Save 10% at checkout when you #PayWithXUMM.",
                 "twitter": "https://twitter.com/XRPLMerch/",
                 "email": "mailto:support@xrplmerch.com",
-                "tags": ["merch", "clothing", "clothes", "t-shirts", "shirts", "hoodies", "sweaters", "hats", "socks", "accessories"]
+                "tags": [
+                    "merch",
+                    "clothing",
+                    "clothes",
+                    "t-shirts",
+                    "shirts",
+                    "hoodies",
+                    "sweaters",
+                    "hats",
+                    "socks",
+                    "accessories"
+                ]
             }
         ]
     }
