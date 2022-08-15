@@ -241,9 +241,9 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle" target="_blank">XRPL Labs Price Aggregator</a> | -
-<a href="https://github.com/lathanbritz/XRP-Oracles" target="_blank">XRP-Oracles</a> | -
-<a href="https://github.com/radynamics/XRP-Oracles" target="_blank">radynamics Price Oracle</a> | -
+<a href="https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle" target="_blank">XRPL Labs Price Aggregator</a> | Persist XRP-USD rate on the XRPL.
+<a href="https://github.com/lathanbritz/XRP-Oracles" target="_blank">XRP-Oracles</a> | lathanbritz: Price Oracle pushing service.
+<a href="https://github.com/radynamics/XRP-Oracles" target="_blank">radynamics Price Oracle</a> | radynamics price Oracle pushing service
 
 
 ---
@@ -252,17 +252,17 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://xrpl.org/dev-tools.html" target="_blank">XRPL.ORG Dev Tools</a> | -
+<a href="https://xrpl.org/dev-tools.html" target="_blank">XRPL.ORG Dev Tools</a> | Visualize the decoding process for an STObject blob, such as a transaction, ledger object or manifest.
 <a href="https://github.com/RichardAH/xrpl-binary-visualizer" target="_blank">XRPL Binary Visualiser</a> | -
-<a href="https://xrp.fans/" target="_blank">XRP.FANS - Use for Dashboard Debugging & Dev</a> | -
-<a href="https://graph.trustline.co/#/" target="_blank">XRPL Composer - Create, visualize, and validate complex payment path</a> | -
-<a href="https://github.com/nhartner/xrp-vanity-address" target="_blank">XRPL Vanity Address Generator - by nhartner (JAVA)</a> | -
-<a href="https://github.com/CodeShark/RippleGen/" target="_blank">XRPL Vanity Address Generator - by CodeShark (C++)</a> | -
-<a href="https://github.com/WietseWind/xrp-vanity-generator" target="_blank">XRPL Vanity Address Generator - by Wietse Wind (JS)</a> | -
-<a href="https://github.com/TusharPardhe/xrpl-rAddress-generator" target="_blank">XRPL Vanity Address Generator - by Tushar Pardhe (JS)</a> | -
-<a href="https://runkit.com/wietsewind/get-gh-xrpl-tx-types" target="_blank">Scrape xrpl.org pages to determine the tx types & schema</a> | -
-<a href="https://github.com/emschwartz/ripple-donate-widget" target="_blank">Ripple checkout - A simple widget code to pay with XRP</a> | -
-<a href="https://xrpaddress.info/" target="_blank">X-Address Information</a> | -
+<a href="https://xrp.fans/" target="_blank">XRP.FANS - Use for Dashboard Debugging & Dev</a> | XRPL Dev. Dashboard
+<a href="https://graph.trustline.co/#/" target="_blank">XRPL Composer - Create, visualize, and validate complex payment path</a> | XRPL Composer is an open-source network composer for the XRP Ledger. 
+<a href="https://github.com/nhartner/xrp-vanity-address" target="_blank">XRPL Vanity Address Generator - by nhartner (JAVA)</a> | XRP Vanity Address Generator
+<a href="https://github.com/CodeShark/RippleGen/" target="_blank">XRPL Vanity Address Generator - by CodeShark (C++)</a> | A multithreaded vanity account generating tool for the Ripple p2p network.
+<a href="https://github.com/WietseWind/xrp-vanity-generator" target="_blank">XRPL Vanity Address Generator - by Wietse Wind (JS)</a> | XRP Vanity address (wallet) generator
+<a href="https://github.com/TusharPardhe/xrpl-rAddress-generator" target="_blank">XRPL Vanity Address Generator - by Tushar Pardhe (JS)</a> | XRPL random rAddress (wallet) generator
+<a href="https://runkit.com/wietsewind/get-gh-xrpl-tx-types" target="_blank">Scrape xrpl.org pages to determine the tx types & schema</a> | Get GH XRPL Tx Types
+<a href="https://github.com/emschwartz/ripple-donate-widget" target="_blank">Ripple checkout - A simple widget code to pay with XRP</a> | An embeddable widget for paying with Ripple.
+<a href="https://xrpaddress.info/" target="_blank">X-Address Information</a> | Encode and decode normal addresses with tags and X-addresses.
 
 
 ---
@@ -275,10 +275,10 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://twitter.com/BithompAlerts" target="_blank">Bithomp Price Alerts</a> | -
-<a href="https://twitter.com/UtilityScan" target="_blank">XRPL ODL Tracker</a> | -
-<a href="https://twitter.com/xrp1ntel" target="_blank">XRPL Intelligence</a> | -
-<a href="https://twitter.com/CasinoCoinAlert" target="_blank">CSC Alerts</a> | -
+<a href="https://twitter.com/BithompAlerts" target="_blank">Bithomp Price Alerts</a> | XRP price alerts by bithomp
+<a href="https://twitter.com/UtilityScan" target="_blank">XRPL ODL Tracker</a> | XRP On Demand Liquidity Tracker Running an XRPL Validator.
+<a href="https://twitter.com/xrp1ntel" target="_blank">XRPL Intelligence</a> | XRP Intelligence - By @devnullprod
+<a href="https://twitter.com/CasinoCoinAlert" target="_blank">CSC Alerts</a> | CasinoCoin (CSC) price swing alerts
 
 
 ---
@@ -307,7 +307,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://xrpl-hooks.readme.io/docs/introduction" target="_blank">XRPL Hooks Documentation</a> | -
+<a href="https://xrpl-hooks.readme.io/docs/introduction" target="_blank">XRPL Hooks Documentation</a> | Hooks add smart contract functionality to the XRP Ledger.
 
 
 ---
@@ -320,8 +320,8 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://xrpl.org/federated-sidechains.html" target="_blank">Federated Sidechains</a> | -
-<a href="https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o" target="_blank">A vision for Federated Sidechains</a> | -
+<a href="https://xrpl.org/federated-sidechains.html" target="_blank">Federated Sidechains</a> | A sidechain is an independent ledger with its own consensus algorithm and transaction types and rules.
+<a href="https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o" target="_blank">A vision for Federated Sidechains</a> | Sidechain dev.to reading material.
 
 
 ---
@@ -334,7 +334,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://evernode.wordpress.com/" target="_blank">Evernode</a> | -
+<a href="https://evernode.wordpress.com/" target="_blank">Evernode</a> | Seriously Smart Contracts on the XRPL.
 
 
 ---
@@ -343,7 +343,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://ledgercitygame.com/" target="_blank">Ledger City</a> | -
+<a href="https://ledgercitygame.com/" target="_blank">Ledger City</a> | Ledger City is a game powered by the XRP Blockchain.
 <a href="https://www.zerpcraft.com/" target="_blank">Zerpcraft</a> | A Minecraft Tokenization Project Built on the XRP Ledger
 
 
@@ -361,7 +361,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://xptxrpl.com/" target="_blank">XPT - XRPL Portfolio Tracker</a> | -
+<a href="https://xptxrpl.com/" target="_blank">XPT - XRPL Portfolio Tracker</a> | Browser plugin to save and monitor their XRP ledger accounts in real-time.
 
 
 ---
@@ -370,7 +370,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://paystring.org/" target="_blank">PayString</a> | -
+<a href="https://paystring.org/" target="_blank">PayString</a> | A better way for your users to send and receive payments.
 <a href="https://github.com/radynamics/CryptoIso20022Interop" target="_blank">CryptoIso20022 Interop</a> | Send / receive XRPL payments using ISO 20022 formats
 
 
@@ -382,7 +382,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://uphold.com/" target="_blank">Uphold</a> | -
+<a href="https://uphold.com/" target="_blank">Uphold</a> | Easy and secure place to trade and manage your digital assets.
 
 
 ---
@@ -393,9 +393,9 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://xumm.app/" target="_blank">XUMM</a> | -
-<a href="https://gemwallet.app/docs/user-guide/introduction" target="_blank">GemWallet</a> | -
-<a href="https://www.sologenic.com/ecosystem/solo-wallet" target="_blank">Solo Wallet</a> | -
+<a href="https://xumm.app/" target="_blank">XUMM</a> | A non custodial wallet with superpowers for the XRP Ledger.
+<a href="https://gemwallet.app/docs/user-guide/introduction" target="_blank">GemWallet</a> | GemWallet is the bridge between the blockchain (XRPL) and fast payments over the internet.
+<a href="https://www.sologenic.com/ecosystem/solo-wallet" target="_blank">Solo Wallet</a> | SOLO Decentralized Exchange & Wallet
 
 
 ---
@@ -404,8 +404,8 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://www.ledger.com/" target="_blank">Ledger</a> | -
-<a href="https://trezor.io/" target="_blank">Trezor</a> | -
+<a href="https://www.ledger.com/" target="_blank">Ledger</a> | Ledger's the smartest way to secure, buy, exchang crypto assets
+<a href="https://trezor.io/" target="_blank">Trezor</a> | Invented for your digital freedom.
 
 
 ---
@@ -414,7 +414,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://www.xrpaddress.org/" target="_blank">Paper Account Generator</a> | -
+<a href="https://www.xrpaddress.org/" target="_blank">Paper Account Generator</a> | Generate a paper account
 
 
 ---
@@ -423,12 +423,12 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://xrpl.services/" target="_blank">XRPL Services - All in one XRPL Tool</a> | -
-<a href="https://spendthebits.com/" target="_blank">Spend The Bits -  Mobile payments App</a> | -
-<a href="https://xrpayments.co/" target="_blank">XRPAYMENTS - Tool to generate payment request QR</a> | -
-<a href="https://blocktr.ac/" target="_blank">Block Trac - Monitor your blockchain account</a> | -
-<a href="https://www.xrphone.app/" target="_blank">XRPhone - Pay invoices over phone</a> | -
-<a href="https://ripple.com/solutions/crypto-liquidity/" target="_blank">Ripple ODL - uses XRPL</a> | -
+<a href="https://xrpl.services/" target="_blank">XRPL Services - All in one XRPL Tool</a> | This website provides services related to XRPL.
+<a href="https://spendthebits.com/" target="_blank">Spend The Bits -  Mobile payments App</a> | XRP Ledger based secure and fast transaction platform.
+<a href="https://xrpayments.co/" target="_blank">XRPAYMENTS - Tool to generate payment request QR</a> | Create payment QR code.
+<a href="https://blocktr.ac/" target="_blank">Block Trac - Monitor your blockchain account</a> | Block Trac allows you to monitor Blockchain transactions in real time.
+<a href="https://www.xrphone.app/" target="_blank">XRPhone - Pay invoices over phone</a> | Pay Invoices Over The Phone.
+<a href="https://ripple.com/solutions/crypto-liquidity/" target="_blank">Ripple ODL - uses XRPL</a> | Put the power of crypto in more hands.
 
 
 ---
@@ -441,10 +441,12 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="" target="_blank">Discord</a> | -
-<a href="" target="_blank">Twitter</a> | -
-<a href="https://dev.to/ripplexdev" target="_blank">Dev.to</a> | -
-<a href="https://github.com/intelliot/xrpl-ideas/discussions" target="_blank">XRPL Ideas Discussion</a> | -
+<a href="https://discord.gg/427qqMYwHh" target="_blank">Discord</a> | Join other developers.
+<a href="https://twitter.com/XRPLF/" target="_blank">Twitter</a> | Stay updated & learn about XRPL.
+<a href="https://dev.to/ripplexdev" target="_blank">Dev.to</a> | Making it easy to build on the XRP Ledger.
+<a href="https://stackoverflow.com/questions/tagged/xrp" target="_blank">Stack Overflow</a> | Questions tagged with [xrp]
+<a href="https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg" target="_blank">XRP Ledger Foundation Youtube</a> | Learn about XRPL through videos.
+<a href="https://github.com/intelliot/xrpl-ideas/discussions" target="_blank">XRPL Ideas Discussion</a> | Discuss/suggest new ideas for XRPL.
 
 
 ---
@@ -457,8 +459,8 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://www.wanchain.org/" target="_blank">Wanchain</a> | -
-<a href="https://flare.xyz/" target="_blank">Flare</a> | -
+<a href="https://www.wanchain.org/" target="_blank">Wanchain</a> | Decentralised blockchain interoperability
+<a href="https://flare.xyz/" target="_blank">Flare</a> | Connect Everything
 
 
 ---
@@ -467,8 +469,8 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://github.com/vhpoet/awesome-ripple" target="_blank">Awesome Ripple - A curated list of Ripple resources</a> | -
-<a href="https://github.com/yyolk/awesome-xrpl#readme" target="_blank">Yyolk's Awesome XRPL List</a> | -
+<a href="https://github.com/vhpoet/awesome-ripple" target="_blank">Awesome Ripple - A curated list of Ripple resources</a> | A curated list of Ripple resources.
+<a href="https://github.com/yyolk/awesome-xrpl#readme" target="_blank">Yyolk's Awesome XRPL List</a> | A curated list of XRPL related projects and resources.
 
 
 ---
