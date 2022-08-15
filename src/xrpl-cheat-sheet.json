@@ -365,23 +365,24 @@
             {
                 "name": "XRPL Labs Price Aggregator",
                 "link": "https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle",
-                "description": ""
+                "description": "Persist XRP-USD rate on the XRPL."
             },
             {
                 "name": "XRP-Oracles",
-                "link": "https://github.com/lathanbritz/XRP-Oracles"
+                "link": "https://github.com/lathanbritz/XRP-Oracles",
+                "description": "lathanbritz: Price Oracle pushing service."
             },
             {
                 "name": "radynamics Price Oracle",
                 "link": "https://github.com/radynamics/XRP-Oracles",
-                "description": ""
+                "description": "radynamics price Oracle pushing service"
             }
         ],
         "Miscellaneous": [
             {
                 "name": "XRPL.ORG Dev Tools",
                 "link": "https://xrpl.org/dev-tools.html",
-                "description": ""
+                "description": "Visualize the decoding process for an STObject blob, such as a transaction, ledger object or manifest."
             },
             {
                 "name": "XRPL Binary Visualiser",
@@ -391,47 +392,47 @@
             {
                 "name": "XRP.FANS - Use for Dashboard Debugging & Dev",
                 "link": "https://xrp.fans/",
-                "description": ""
+                "description": "XRPL Dev. Dashboard"
             },
             {
                 "name": "XRPL Composer - Create, visualize, and validate complex payment path",
                 "link": "https://graph.trustline.co/#/",
-                "description": ""
+                "description": "XRPL Composer is an open-source network composer for the XRP Ledger. "
             },
             {
                 "name": "XRPL Vanity Address Generator - by nhartner (JAVA)",
                 "link": "https://github.com/nhartner/xrp-vanity-address",
-                "description": ""
+                "description": "XRP Vanity Address Generator"
             },
             {
                 "name": "XRPL Vanity Address Generator - by CodeShark (C++)",
                 "link": "https://github.com/CodeShark/RippleGen/",
-                "description": ""
+                "description": "A multithreaded vanity account generating tool for the Ripple p2p network."
             },
             {
                 "name": "XRPL Vanity Address Generator - by Wietse Wind (JS)",
                 "link": "https://github.com/WietseWind/xrp-vanity-generator",
-                "description": ""
+                "description": "XRP Vanity address (wallet) generator"
             },
             {
                 "name": "XRPL Vanity Address Generator - by Tushar Pardhe (JS)",
                 "link": "https://github.com/TusharPardhe/xrpl-rAddress-generator",
-                "description": ""
+                "description": "XRPL random rAddress (wallet) generator"
             },
             {
                 "name": "Scrape xrpl.org pages to determine the tx types & schema",
                 "link": "https://runkit.com/wietsewind/get-gh-xrpl-tx-types",
-                "description": ""
+                "description": "Get GH XRPL Tx Types"
             },
             {
                 "name": "Ripple checkout - A simple widget code to pay with XRP",
                 "link": "https://github.com/emschwartz/ripple-donate-widget",
-                "description": ""
+                "description": "An embeddable widget for paying with Ripple."
             },
             {
                 "name": "X-Address Information",
                 "link": "https://xrpaddress.info/",
-                "description": ""
+                "description": "Encode and decode normal addresses with tags and X-addresses."
             },
             []
         ]
@@ -442,22 +443,22 @@
             {
                 "name": "Bithomp Price Alerts",
                 "link": "https://twitter.com/BithompAlerts",
-                "description": ""
+                "description": "XRP price alerts by bithomp"
             },
             {
                 "name": "XRPL ODL Tracker",
                 "link": "https://twitter.com/UtilityScan",
-                "description": ""
+                "description": "XRP On Demand Liquidity Tracker Running an XRPL Validator."
             },
             {
                 "name": "XRPL Intelligence",
                 "link": "https://twitter.com/xrp1ntel",
-                "description": ""
+                "description": "XRP Intelligence - By @devnullprod"
             },
             {
                 "name": "CSC Alerts",
                 "link": "https://twitter.com/CasinoCoinAlert",
-                "description": ""
+                "description": "CasinoCoin (CSC) price swing alerts"
             }
         ],
         "Discord": [],
@@ -469,7 +470,7 @@
             {
                 "name": "XRPL Hooks Documentation",
                 "link": "https://xrpl-hooks.readme.io/docs/introduction",
-                "description": ""
+                "description": "Hooks add smart contract functionality to the XRP Ledger."
             }
         ]
     },
@@ -479,12 +480,12 @@
             {
                 "name": "Federated Sidechains",
                 "link": "https://xrpl.org/federated-sidechains.html",
-                "description": ""
+                "description": "A sidechain is an independent ledger with its own consensus algorithm and transaction types and rules."
             },
             {
                 "name": "A vision for Federated Sidechains",
                 "link": "https://dev.to/ripplexdev/a-vision-for-federated-sidechains-on-the-xrp-ledger-2o7o",
-                "description": ""
+                "description": "Sidechain dev.to reading material."
             }
         ]
     },
@@ -494,14 +495,14 @@
             {
                 "name": "Evernode",
                 "link": "https://evernode.wordpress.com/",
-                "description": ""
+                "description": "Seriously Smart Contracts on the XRPL."
             }
         ],
         "Gaming": [
             {
                 "name": "Ledger City",
                 "link": "https://ledgercitygame.com/",
-                "description": ""
+                "description": "Ledger City is a game powered by the XRP Blockchain."
             },
             {
                 "name": "Zerpcraft",
@@ -514,14 +515,14 @@
             {
                 "name": "XPT - XRPL Portfolio Tracker",
                 "link": "https://xptxrpl.com/",
-                "description": ""
+                "description": "Browser plugin to save and monitor their XRP ledger accounts in real-time."
             }
         ],
         "Payments": [
             {
                 "name": "PayString",
                 "link": "https://paystring.org/",
-                "description": ""
+                "description": "A better way for your users to send and receive payments."
             },
             {
                 "name": "CryptoIso20022 Interop",
@@ -534,7 +535,7 @@
                 {
                     "name": "Uphold",
                     "link": "https://uphold.com/",
-                    "description": ""
+                    "description": "Easy and secure place to trade and manage your digital assets."
                 }
             ],
             "Non-Custodial": {
@@ -542,36 +543,36 @@
                     {
                         "name": "XUMM",
                         "link": "https://xumm.app/",
-                        "description": ""
+                        "description": "A non custodial wallet with superpowers for the XRP Ledger."
                     },
                     {
                         "name": "GemWallet",
                         "link": "https://gemwallet.app/docs/user-guide/introduction",
-                        "description": ""
+                        "description": "GemWallet is the bridge between the blockchain (XRPL) and fast payments over the internet."
                     },
                     {
                         "name": "Solo Wallet",
                         "link": "https://www.sologenic.com/ecosystem/solo-wallet",
-                        "description": ""
+                        "description": "SOLO Decentralized Exchange & Wallet"
                     }
                 ],
                 "Hardware": [
                     {
                         "name": "Ledger",
                         "link": "https://www.ledger.com/",
-                        "description": ""
+                        "description": "Ledger's the smartest way to secure, buy, exchang crypto assets"
                     },
                     {
                         "name": "Trezor",
                         "link": "https://trezor.io/",
-                        "description": ""
+                        "description": "Invented for your digital freedom."
                     }
                 ],
                 "Paper": [
                     {
                         "name": "Paper Account Generator",
                         "link": "https://www.xrpaddress.org/",
-                        "description": ""
+                        "description": "Generate a paper account"
                     }
                 ]
             }
@@ -580,32 +581,32 @@
             {
                 "name": "XRPL Services - All in one XRPL Tool",
                 "link": "https://xrpl.services/",
-                "description": ""
+                "description": "This website provides services related to XRPL."
             },
             {
                 "name": "Spend The Bits -  Mobile payments App",
                 "link": "https://spendthebits.com/",
-                "description": ""
+                "description": "XRP Ledger based secure and fast transaction platform."
             },
             {
                 "name": "XRPAYMENTS - Tool to generate payment request QR",
                 "link": "https://xrpayments.co/",
-                "description": ""
+                "description": "Create payment QR code."
             },
             {
                 "name": "Block Trac - Monitor your blockchain account",
                 "link": "https://blocktr.ac/",
-                "description": ""
+                "description": "Block Trac allows you to monitor Blockchain transactions in real time."
             },
             {
                 "name": "XRPhone - Pay invoices over phone",
                 "link": "https://www.xrphone.app/",
-                "description": ""
+                "description": "Pay Invoices Over The Phone."
             },
             {
                 "name": "Ripple ODL - uses XRPL",
                 "link": "https://ripple.com/solutions/crypto-liquidity/",
-                "description": ""
+                "description": "Put the power of crypto in more hands."
             }
         ]
     },
@@ -614,23 +615,33 @@
         "Links": [
             {
                 "name": "Discord",
-                "link": "",
-                "description": ""
+                "link": "https://discord.gg/427qqMYwHh",
+                "description": "Join other developers."
             },
             {
                 "name": "Twitter",
-                "link": "",
-                "description": ""
+                "link": "https://twitter.com/XRPLF/",
+                "description": "Stay updated & learn about XRPL."
             },
             {
                 "name": "Dev.to",
                 "link": "https://dev.to/ripplexdev",
-                "description": ""
+                "description": "Making it easy to build on the XRP Ledger."
+            },
+            {
+                "name": "Stack Overflow",
+                "link": "https://stackoverflow.com/questions/tagged/xrp",
+                "description": "Questions tagged with [xrp]"
+            },
+            {
+                "name": "XRP Ledger Foundation Youtube",
+                "link": "https://www.youtube.com/channel/UC6zTJdNCBI-TKMt5ubNc_Gg",
+                "description": "Learn about XRPL through videos."
             },
             {
                 "name": "XRPL Ideas Discussion",
                 "link": "https://github.com/intelliot/xrpl-ideas/discussions",
-                "description": ""
+                "description": "Discuss/suggest new ideas for XRPL."
             }
         ]
     },
@@ -640,24 +651,24 @@
             {
                 "name": "Wanchain",
                 "link": "https://www.wanchain.org/",
-                "description": ""
+                "description": "Decentralised blockchain interoperability"
             },
             {
                 "name": "Flare",
                 "link": "https://flare.xyz/",
-                "description": ""
+                "description": "Connect Everything"
             }
         ],
         "Resources": [
             {
                 "name": "Awesome Ripple - A curated list of Ripple resources",
                 "link": "https://github.com/vhpoet/awesome-ripple",
-                "description": ""
+                "description": "A curated list of Ripple resources."
             },
             {
                 "name": "Yyolk's Awesome XRPL List",
                 "link": "https://github.com/yyolk/awesome-xrpl#readme",
-                "description": ""
+                "description": "A curated list of XRPL related projects and resources."
             }
         ]
     },
