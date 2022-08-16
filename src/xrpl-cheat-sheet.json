@@ -63,6 +63,11 @@
                 "name": "GateHub",
                 "link": "https://gatehub.net/markets/",
                 "description": "Your digital asset wallet for the Internet of Value"
+            },
+            {
+                "name": "The World Exchange",
+                "link": "https://www.theworldexchange.net/",
+                "description": "Trade, Issue, and Send Directly on the XRPL Network"
             }
         ],
         "Validators": [
@@ -153,12 +158,12 @@
         "Libraries": {
             "Javascript": [
                 {
-                    "name": "XRPL JS Library",
+                    "name": "xrpl.js Library",
                     "link": "https://github.com/XRPLF/xrpl.js",
-                    "description": "A JavaScript/TypeScript library for interacting with the XRP Ledger."
+                    "description": "A JavaScript/TypeScript (JS/TS) library for interacting with the XRP Ledger."
                 },
                 {
-                    "name": "XRPLL Websocket Client - NPM Package",
+                    "name": "XRPL Websocket Client - NPM Package",
                     "link": "https://www.npmjs.com/package/xrpl-client",
                     "description": "Auto reconnecting, buffering, subscription remembering XRP Ledger WebSocket client. For in node & the browser"
                 },
@@ -346,12 +351,12 @@
                 "description": "Communicate directly with rippled, the core peer-to-peer server that manages the XRP Ledger."
             },
             {
-                "name": "Ripple Data API V2 - [Depreceated]",
+                "name": "Ripple Data API V2 - [Deprecated]",
                 "link": "https://github.com/ripple/rippled-historical-database",
                 "description": "The Ripple Data API v2 provides access to information about changes in the XRP Ledger."
             },
             {
-                "name": "Ripple Charts API - [Depreceated]",
+                "name": "Ripple Charts API - [Deprecated]",
                 "link": "https://github.com/ripple/ripple-data-api",
                 "description": "The Ripple Charts API, also known as the Data API, provides past and present information about the state of the network."
             },
