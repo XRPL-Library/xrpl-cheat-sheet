@@ -36,6 +36,7 @@ Name | Description
 <a href="https://www.xrptoolkit.com/" target="_blank">XRP Toolkit</a> | Trade on the XRP Ledger
 <a href="https://xdex.com/" target="_blank">XDEX</a> | The easiest interface for the XRPL decentralized exchange.
 <a href="https://gatehub.net/markets/" target="_blank">GateHub</a> | Your digital asset wallet for the Internet of Value
+<a href="https://www.theworldexchange.net/" target="_blank">The World Exchange</a> | Trade, Issue, and Send Directly on the XRPL Network
 
 
 ---
@@ -108,8 +109,8 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://github.com/XRPLF/xrpl.js" target="_blank">XRPL JS Library</a> | A JavaScript/TypeScript library for interacting with the XRP Ledger.
-<a href="https://www.npmjs.com/package/xrpl-client" target="_blank">XRPLL Websocket Client - NPM Package</a> | Auto reconnecting, buffering, subscription remembering XRP Ledger WebSocket client. For in node & the browser
+<a href="https://github.com/XRPLF/xrpl.js" target="_blank">xrpl.js Library</a> | A JavaScript/TypeScript (JS/TS) library for interacting with the XRP Ledger.
+<a href="https://www.npmjs.com/package/xrpl-client" target="_blank">XRPL Websocket Client - NPM Package</a> | Auto reconnecting, buffering, subscription remembering XRP Ledger WebSocket client. For in node & the browser
 <a href="https://www.npmjs.com/package/xrpl-accountlib" target="_blank">XRPL AccountLib - NPM Package</a> | XRPL Account helper: generation, derivation and signing.
 <a href="https://www.npmjs.com/package/xrpl-txdata" target="_blank">XRPL Transaction Data Fetcher - NPM Package</a> | This library allows you to fetch XRP ledger transaction outcome from a number of (full history) XRP ledger nodes.
 <a href="https://github.com/xrpinnovations/node-red-contrib-xrpl" target="_blank">Node-Red Modules: Fully interact with XRPL</a> | Interact with the XRP Ledger directly from Node-Red.
@@ -230,8 +231,8 @@ Name | Description
 <a href="https://github.com/OnTheDEX/xrpledger-token-data-api/" target="_blank">OnTheDex.live</a> | This API offers accurate and up-to-date token trading data for all tokens traded on the XRP Ledger DEX.
 <a href="https://xrplmeta.org" target="_blank">XRPL Meta</a> | XRPL Meta provides the data that is not obtainable by the standard rippled API.
 <a href="https://xrpl.org/http-websocket-apis.html" target="_blank">Public HTTP/Websocket APIs</a> | Communicate directly with rippled, the core peer-to-peer server that manages the XRP Ledger.
-<a href="https://github.com/ripple/rippled-historical-database" target="_blank">Ripple Data API V2 - [Depreceated]</a> | The Ripple Data API v2 provides access to information about changes in the XRP Ledger.
-<a href="https://github.com/ripple/ripple-data-api" target="_blank">Ripple Charts API - [Depreceated]</a> | The Ripple Charts API, also known as the Data API, provides past and present information about the state of the network.
+<a href="https://github.com/ripple/rippled-historical-database" target="_blank">Ripple Data API V2 - [Deprecated]</a> | The Ripple Data API v2 provides access to information about changes in the XRP Ledger.
+<a href="https://github.com/ripple/ripple-data-api" target="_blank">Ripple Charts API - [Deprecated]</a> | The Ripple Charts API, also known as the Data API, provides past and present information about the state of the network.
 <a href="https://github.com/ripple/ripple-blobvault" target="_blank">Ripple Blobvault V1 - Server for storing persistent data for Ripple clients</a> | This API provides access to the Ripple Blobvaut.
 
 
