@@ -20,7 +20,7 @@
             {
                 "name": "XRP Intel",
                 "link": "https://xrpintel.com/",
-                "description": "XRP network monitor and analyzer. "
+                "description": "XRP network monitor and analyzer."
             },
             {
                 "name": "Livenet XRPL Org",
@@ -36,6 +36,23 @@
                 "name": "XRPL ODL Rosetta",
                 "link": "https://threexrp.dev/",
                 "description": "Track realtime XRPL transactions."
+            }
+        ],
+        "Parallel Networks": [
+            {
+                "name": "General Testnet",
+                "link": "https://testnet.xrpl.org/",
+                "description": "An alternate network that acts as a testing ground for software built on the XRP Ledger."
+            },
+            {
+                "name": "General Devnet",
+                "link": "https://devnet.xrpl.org/",
+                "description": "A preview of coming attractions, where unstable changes to the core XRP Ledger software may be tested out. "
+            },
+            {
+                "name": "Betanet",
+                "link": "https://hooks-testnet-v2.xrpl-labs.com/",
+                "description": "A preview of on-chain smart contract functionality using Hooks & other brand new amendments."
             }
         ],
         "Dex": [
@@ -500,7 +517,7 @@
             {
                 "name": "Evernode",
                 "link": "https://evernode.wordpress.com/",
-                "description": "Seriously Smart Contracts on the XRPL."
+                "description": "A layer-2 smart contract hosting platform on the XRPL."
             }
         ],
         "Gaming": [
@@ -621,7 +638,7 @@
             {
                 "name": "Discord",
                 "link": "https://discord.gg/427qqMYwHh",
-                "description": "Join other developers."
+                "description": "The largest XRPL Dev community discord server."
             },
             {
                 "name": "Twitter",
