@@ -19,10 +19,21 @@ Name | Description
 <a href="https://bithomp.com/" target="_blank">Bithomp</a> | XRP explorer
 <a href="https://xrpscan.com/" target="_blank">XRPScan</a> | Your gateway to the XRP Ledger - The home of XRP
 <a href="https://xrplorer.com/" target="_blank">XRPlorer</a> | Go-to resource for insights, analytics, and AML data for the XRP ledger.
-<a href="https://xrpintel.com/" target="_blank">XRP Intel</a> | XRP network monitor and analyzer. 
+<a href="https://xrpintel.com/" target="_blank">XRP Intel</a> | XRP network monitor and analyzer.
 <a href="https://livenet.xrpl.org/" target="_blank">Livenet XRPL Org</a> | XRPL explorer
 <a href="https://explorer.xrplf.org/" target="_blank">XRPLF Ledger Explorer</a> | Ledger explorer, Work in progress, EARLY BETA
 <a href="https://threexrp.dev/" target="_blank">XRPL ODL Rosetta</a> | Track realtime XRPL transactions.
+
+
+---
+
+###  ♦ Parallel Networks 
+
+Name | Description 
+ --- | --- 
+<a href="https://testnet.xrpl.org/" target="_blank">General Testnet</a> | An alternate network that acts as a testing ground for software built on the XRP Ledger.
+<a href="https://devnet.xrpl.org/" target="_blank">General Devnet</a> | A preview of coming attractions, where unstable changes to the core XRP Ledger software may be tested out. 
+<a href="https://hooks-testnet-v2.xrpl-labs.com/" target="_blank">Betanet</a> | A preview of on-chain smart contract functionality using Hooks & other brand new amendments.
 
 
 ---
@@ -335,7 +346,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://evernode.wordpress.com/" target="_blank">Evernode</a> | Seriously Smart Contracts on the XRPL.
+<a href="https://evernode.wordpress.com/" target="_blank">Evernode</a> | A layer-2 smart contract hosting platform on the XRPL.
 
 
 ---
@@ -442,7 +453,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
-<a href="https://discord.gg/427qqMYwHh" target="_blank">Discord</a> | Join other developers.
+<a href="https://discord.gg/427qqMYwHh" target="_blank">Discord</a> | The largest XRPL Dev community discord server.
 <a href="https://twitter.com/XRPLF/" target="_blank">Twitter</a> | Stay updated & learn about XRPL.
 <a href="https://dev.to/ripplexdev" target="_blank">Dev.to</a> | Making it easy to build on the XRP Ledger.
 <a href="https://stackoverflow.com/questions/tagged/xrp" target="_blank">Stack Overflow</a> | Questions tagged with [xrp]
