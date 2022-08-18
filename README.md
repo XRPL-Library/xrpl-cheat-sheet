@@ -34,6 +34,8 @@ Name | Description
 <a href="https://testnet.xrpl.org/" target="_blank">General Testnet</a> | An alternate network that acts as a testing ground for software built on the XRP Ledger.
 <a href="https://devnet.xrpl.org/" target="_blank">General Devnet</a> | A preview of coming attractions, where unstable changes to the core XRP Ledger software may be tested out. 
 <a href="https://hooks-testnet-v2.xrpl-labs.com/" target="_blank">Betanet</a> | A preview of on-chain smart contract functionality using Hooks & other brand new amendments.
+<a href="https://xrpl.org/xrp-testnet-faucet.html" target="_blank">XRPL.org Faucets</a> | Pre funded Testnet/devnet/NFT accounts
+<a href="test.bithomp.com/faucet/" target="_blank">Bithomp testnet Faucet</a> | Fund your testnet accounts with XRP
 
 
 ---
