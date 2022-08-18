@@ -1,7 +1,7 @@
 {
-    "General Utilities": {
+    "General": {
         "description": "Tools to display information related to XRP Ledger",
-        "All Purpose": [
+        "All Purpose Explorers": [
             {
                 "name": "Bithomp",
                 "link": "https://bithomp.com/",
