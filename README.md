@@ -8,11 +8,11 @@
 
 </div>
 
-## ➼ General Utilities 
+## ➼ General 
 
 > Tools to display information related to XRP Ledger
 
-###  ♦ All Purpose 
+###  ♦ All Purpose Explorers 
 
 Name | Description 
  --- | --- 
