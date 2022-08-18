@@ -8,7 +8,7 @@
 
 </div>
 
-## ➼ Explorers 
+## ➼ General Utilities 
 
 > Tools to display information related to XRP Ledger
 
