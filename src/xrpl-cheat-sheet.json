@@ -62,12 +62,12 @@
             {
                 "name": "Bithomp Testnet Faucet",
                 "link": "test.bithomp.com/faucet/",
-                "description": "Fund your testnet accounts with XRP"
+                "description": "Fund your testnet account with XRP"
             },
             {
                 "name": "Bithomp Betanet Faucet",
                 "link": "beta.bithomp.com/faucet/",
-                "description": "Fund your beta network accounts with XRP"
+                "description": "Fund your beta network account with XRP"
             },
             {
                 "name": "Bithomp Hooks Testnet Faucet",
@@ -77,7 +77,7 @@
             {
                 "name": "Bithomp NFT Devnet Faucet",
                 "link": "xls20.bithomp.com/faucet/",
-                "description": "Fund your devnet accounts to have fun with XLS20"
+                "description": "Fund your devnet account to have fun with XLS20"
             }
         ],
         "Dex": [
