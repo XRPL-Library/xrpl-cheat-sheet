@@ -115,6 +115,19 @@ Name | Description
 
 ---
 
+## ➼ Innovation 
+
+> Learn, fail, adapt and innovate
+
+###  ♦ Network 
+
+Name | Description 
+ --- | --- 
+<a href="https://dev.to/xrpscan/hermes-xrpl-validation-message-service-29dp" target="_blank">Project Hermes</a> | A messaging network for storing and relaying XRPL validation messages
+
+
+---
+
 ## ➼ Dev Utilities 
 
 > Powerful development tools to assist you with your unique ideas.
@@ -468,6 +481,19 @@ Name | Description
 
 ---
 
+## ➼ Merchandise 
+
+> A list of Merchants offering merchandise that accept XRP payments.
+
+###  ♦ Merchants 
+
+Name | Description 
+ --- | --- 
+<a href="https://xrplmerch.com" target="_blank">XRPL Merch</a> | Your go to shop for XRPL based merchandise. We are open to collaboration and customization of products. Save 10% at checkout when you #PayWithXUMM.
+
+
+---
+
 ## ➼ Miscellaneous 
 
 > Some more useful resources you might want to look at.
@@ -488,32 +514,6 @@ Name | Description
  --- | --- 
 <a href="https://github.com/vhpoet/awesome-ripple" target="_blank">Awesome Ripple - A curated list of Ripple resources</a> | A curated list of Ripple resources.
 <a href="https://github.com/yyolk/awesome-xrpl#readme" target="_blank">Yyolk's Awesome XRPL List</a> | A curated list of XRPL related projects and resources.
-
-
----
-
-## ➼ Merchandise 
-
-> A list of Merchants offering merchandise that accept XRP payments.
-
-###  ♦ Merchants 
-
-Name | Description 
- --- | --- 
-<a href="https://xrplmerch.com" target="_blank">XRPL Merch</a> | Your go to shop for XRPL based merchandise. We are open to collaboration and customization of products. Save 10% at checkout when you #PayWithXUMM.
-
-
----
-
-## ➼ Innovation 
-
-> Learn, fail, adapt and innovate
-
-###  ♦ Network 
-
-Name | Description 
- --- | --- 
-<a href="https://dev.to/xrpscan/hermes-xrpl-validation-message-service-29dp" target="_blank">Project Hermes</a> | A messaging network for storing and relaying XRPL validation messages
 
 
 ---
