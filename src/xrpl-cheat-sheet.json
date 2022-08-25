@@ -743,5 +743,15 @@
                 ]
             }
         ]
+    },
+    "Innovation": {
+        "description": "Learn, fail, adapt and innovate",
+        "Network": [
+            {
+                "name": "Project Hermes",
+                "link": "https://dev.to/xrpscan/hermes-xrpl-validation-message-service-29dp",
+                "description": "A messaging network for storing and relaying XRPL validation messages"
+            }
+        ]
     }
 }
