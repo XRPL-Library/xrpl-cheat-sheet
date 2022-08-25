@@ -505,6 +505,19 @@ Name | Description
 
 ---
 
+## ➼ Innovation 
+
+> Learn, fail, adapt and innovate
+
+###  ♦ Network 
+
+Name | Description 
+ --- | --- 
+<a href="https://dev.to/xrpscan/hermes-xrpl-validation-message-service-29dp" target="_blank">Project Hermes</a> | A messaging network for storing and relaying XRPL validation messages
+
+
+---
+
 ## ➼ Contribute 
 
  
