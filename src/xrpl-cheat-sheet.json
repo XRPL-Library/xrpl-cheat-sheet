@@ -195,6 +195,16 @@
             }
         ]
     },
+    "Innovation": {
+        "description": "Learn, fail, adapt and innovate",
+        "Network": [
+            {
+                "name": "Project Hermes",
+                "link": "https://dev.to/xrpscan/hermes-xrpl-validation-message-service-29dp",
+                "description": "A messaging network for storing and relaying XRPL validation messages"
+            }
+        ]
+    },
     "Dev Utilities": {
         "description": "Powerful development tools to assist you with your unique ideas.",
         "Libraries": {
@@ -692,33 +702,6 @@
             }
         ]
     },
-    "Miscellaneous": {
-        "description": "Some more useful resources you might want to look at.",
-        "Cross Chains": [
-            {
-                "name": "Wanchain",
-                "link": "https://www.wanchain.org/",
-                "description": "Decentralised blockchain interoperability"
-            },
-            {
-                "name": "Flare",
-                "link": "https://flare.xyz/",
-                "description": "Connect Everything"
-            }
-        ],
-        "Resources": [
-            {
-                "name": "Awesome Ripple - A curated list of Ripple resources",
-                "link": "https://github.com/vhpoet/awesome-ripple",
-                "description": "A curated list of Ripple resources."
-            },
-            {
-                "name": "Yyolk's Awesome XRPL List",
-                "link": "https://github.com/yyolk/awesome-xrpl#readme",
-                "description": "A curated list of XRPL related projects and resources."
-            }
-        ]
-    },
     "Merchandise": {
         "description": "A list of Merchants offering merchandise that accept XRP payments.",
         "Merchants": [
@@ -744,13 +727,30 @@
             }
         ]
     },
-    "Innovation": {
-        "description": "Learn, fail, adapt and innovate",
-        "Network": [
+    "Miscellaneous": {
+        "description": "Some more useful resources you might want to look at.",
+        "Cross Chains": [
             {
-                "name": "Project Hermes",
-                "link": "https://dev.to/xrpscan/hermes-xrpl-validation-message-service-29dp",
-                "description": "A messaging network for storing and relaying XRPL validation messages"
+                "name": "Wanchain",
+                "link": "https://www.wanchain.org/",
+                "description": "Decentralised blockchain interoperability"
+            },
+            {
+                "name": "Flare",
+                "link": "https://flare.xyz/",
+                "description": "Connect Everything"
+            }
+        ],
+        "Resources": [
+            {
+                "name": "Awesome Ripple - A curated list of Ripple resources",
+                "link": "https://github.com/vhpoet/awesome-ripple",
+                "description": "A curated list of Ripple resources."
+            },
+            {
+                "name": "Yyolk's Awesome XRPL List",
+                "link": "https://github.com/yyolk/awesome-xrpl#readme",
+                "description": "A curated list of XRPL related projects and resources."
             }
         ]
     }
