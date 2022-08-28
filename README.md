@@ -200,6 +200,7 @@ Name | Description
  --- | --- 
 <a href="https://packagist.org/packages/xrpl/xumm-sdk-php" target="_blank">XUMM PHP</a> | A PHP SDK for Xumm by XRPLabs.
 <a href="https://github.com/ripple-unmaintained/federation-php" target="_blank">Federation PHP</a> | This projects provides some PHP example code to set up a trivial federation endpoint with a static list of users.
+<a href="https://github.com/XRPLWin/XRPL-Orderbook-Reader/" target="_blank">XRPL-Orderbook-Reader for PHP</a> | XRPL Orderbook (book_offers) datasets and requested volume to exchange and calculates the effective exchange rates.
 
 
 ---
