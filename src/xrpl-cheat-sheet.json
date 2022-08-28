@@ -328,6 +328,11 @@
                     "name": "Federation PHP",
                     "link": "https://github.com/ripple-unmaintained/federation-php",
                     "description": "This projects provides some PHP example code to set up a trivial federation endpoint with a static list of users."
+                },
+                {
+                    "name": "XRPL-Orderbook-Reader for PHP",
+                    "link": "https://github.com/XRPLWin/XRPL-Orderbook-Reader/",
+                    "description": "XRPL Orderbook (book_offers) datasets and requested volume to exchange and calculates the effective exchange rates."
                 }
             ],
             "Ruby": [
