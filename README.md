@@ -35,10 +35,10 @@ Name | Description
 <a href="https://devnet.xrpl.org/" target="_blank">General Devnet</a> | A preview of coming attractions, where unstable changes to the core XRP Ledger software may be tested out. 
 <a href="https://hooks-testnet-v2.xrpl-labs.com/" target="_blank">Betanet</a> | A preview of on-chain smart contract functionality using Hooks & other brand new amendments.
 <a href="https://xrpl.org/xrp-testnet-faucet.html" target="_blank">XRPL.org Faucets</a> | Pre funded Testnet/Devnet/NFT-Devnet accounts
-<a href="test.bithomp.com/faucet/" target="_blank">Bithomp Testnet Faucet</a> | Fund your testnet account with XRP
-<a href="beta.bithomp.com/faucet/" target="_blank">Bithomp Betanet Faucet</a> | Fund your beta network account with XRP
-<a href="hooks.bithomp.com/faucet/" target="_blank">Bithomp Hooks Testnet Faucet</a> | Fund your testnet account to play with hooks on XRP
-<a href="xls20.bithomp.com/faucet/" target="_blank">Bithomp NFT Devnet Faucet</a> | Fund your devnet account to have fun with XLS20
+<a href="https://test.bithomp.com/faucet/" target="_blank">Bithomp Testnet Faucet</a> | Fund your testnet account with XRP
+<a href="https://beta.bithomp.com/faucet/" target="_blank">Bithomp Betanet Faucet</a> | Fund your beta network account with XRP
+<a href="https://hooks.bithomp.com/faucet/" target="_blank">Bithomp Hooks Testnet Faucet</a> | Fund your testnet account to play with hooks on XRP
+<a href="https://xls20.bithomp.com/faucet/" target="_blank">Bithomp NFT Devnet Faucet</a> | Fund your devnet account to have fun with XLS20
 
 
 ---
