@@ -152,15 +152,7 @@
                 "link": "https://onthedex.live/",
                 "description": "Explore any traded token on the XRP Ledger."
             }
-        ],
-        "XLS-14": [
-            {
-                "name": "Bithomp",
-                "link": "https://bithomp.com/",
-                "description": "XRP explorer"
-            }
-        ],
-        "XLS-20": []
+        ]
     },
     "Nodes": {
         "description": "The core server that powers the XRP Ledger.",
