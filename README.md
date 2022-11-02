@@ -88,23 +88,6 @@ Name | Description
 
 ---
 
-###  ♦ XLS-14 
-
-Name | Description 
- --- | --- 
-<a href="https://bithomp.com/" target="_blank">Bithomp</a> | XRP explorer
-
-
----
-
-###  ♦ XLS-20 
-
-Name | Description 
- --- | --- 
-
-
----
-
 ## ➼ Nodes 
 
 > The core server that powers the XRP Ledger.
