@@ -12,6 +12,16 @@
 
 > Tools to display information related to XRP Ledger
 
+###  ♦ XRPL Statistics 
+
+Name | Description 
+ --- | --- 
+<a href="https://bithomp.com/nft-statistics" target="_blank">Bithomp</a> | Displays information about XRPL NFTs - minted, burned, transfered etc.
+<a href="https://xrpl.services/xrpl-statistics" target="_blank">XRPL Services</a> | General XRPL Statistics including accounts, escrows, NFTs etc.
+
+
+---
+
 ###  ♦ All Purpose Explorers 
 
 Name | Description 
