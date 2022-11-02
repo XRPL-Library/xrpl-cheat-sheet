@@ -1,6 +1,18 @@
 {
     "General": {
         "description": "Tools to display information related to XRP Ledger",
+        "XRPL Statistics": [
+            {
+                "name": "Bithomp",
+                "link": "https://bithomp.com/nft-statistics",
+                "description": "Displays information about XRPL NFTs - minted, burned, transfered etc."
+            },
+            {
+                "name": "XRPL Services",
+                "link": "https://xrpl.services/xrpl-statistics",
+                "description": "General XRPL Statistics including accounts, escrows, NFTs etc."
+            }
+        ],
         "All Purpose Explorers": [
             {
                 "name": "Bithomp",
