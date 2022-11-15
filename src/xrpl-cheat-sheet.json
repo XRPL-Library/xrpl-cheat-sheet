@@ -446,6 +446,11 @@
         ],
         "Miscellaneous": [
             {
+                "name":"XRPL TX JSON",
+                "link":"https://hash.xrp.fans/",
+                "description":"Get XRPL JSON data from TX hash."
+            },
+            {
                 "name": "XRPL.ORG Dev Tools",
                 "link": "https://xrpl.org/dev-tools.html",
                 "description": "Visualize the decoding process for an STObject blob, such as a transaction, ledger object or manifest."
