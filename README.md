@@ -276,6 +276,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
+<a href="https://hash.xrp.fans/" target="_blank">XRPL TX JSON</a> | Get XRPL JSON data from TX hash.
 <a href="https://xrpl.org/dev-tools.html" target="_blank">XRPL.ORG Dev Tools</a> | Visualize the decoding process for an STObject blob, such as a transaction, ledger object or manifest.
 <a href="https://github.com/RichardAH/xrpl-binary-visualizer" target="_blank">XRPL Binary Visualiser</a> | -
 <a href="https://xrp.fans/" target="_blank">XRP.FANS - Use for Dashboard Debugging & Dev</a> | XRPL Dev. Dashboard
