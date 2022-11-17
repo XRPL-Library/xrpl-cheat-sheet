@@ -140,6 +140,7 @@ Name | Description
 <a href="https://github.com/devjin0617/ripplectron" target="_blank">Wallet Desktop client for vue-electron</a> | Ripple(Blockchain coin) Wallet Desktop client for vue-electron
 <a href="https://itnext.io/develop-awesome-webapps-using-vuejs-webpack-bda08ebb691c" target="_blank">Develop WebApp Using VueJS + Webpack (XRP)</a> | Guide to develop webapp with VueJS
 <a href="https://github.com/xrp-community/xrpl-tagged-address-codec" target="_blank">XRPL Tagged Address Codec</a> | Encode and Decode an XRPL account address and destination tag to/from X-formatted (tagged) address.
+<a href="https://www.npmjs.com/package/@gemwallet/api" target="_blank">GemWallet API</a> | A JavaScript/TypeScript (JS/TS) library for interacting with GemWallet and the XRP Ledger.
 
 
 ---
@@ -419,7 +420,7 @@ Name | Description
 Name | Description 
  --- | --- 
 <a href="https://xumm.app/" target="_blank">XUMM</a> | A non custodial wallet with superpowers for the XRP Ledger.
-<a href="https://gemwallet.app/docs/user-guide/introduction" target="_blank">GemWallet</a> | GemWallet is the bridge between the blockchain (XRPL) and fast payments over the internet.
+<a href="https://gemwallet.app/docs/user-guide/introduction" target="_blank">GemWallet</a> | GemWallet is the web3 between the blockchain (XRPL) and your web browser.
 <a href="https://www.sologenic.com/ecosystem/solo-wallet" target="_blank">Solo Wallet</a> | SOLO Decentralized Exchange & Wallet
 
 
