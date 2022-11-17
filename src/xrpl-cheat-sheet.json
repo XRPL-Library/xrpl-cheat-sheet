@@ -257,6 +257,11 @@
                     "name": "XRPL Tagged Address Codec",
                     "link": "https://github.com/xrp-community/xrpl-tagged-address-codec",
                     "description": "Encode and Decode an XRPL account address and destination tag to/from X-formatted (tagged) address."
+                },
+                {
+                    "name": "GemWallet API",
+                    "link": "https://www.npmjs.com/package/@gemwallet/api",
+                    "description": "A JavaScript/TypeScript (JS/TS) library for interacting with GemWallet and the XRP Ledger."
                 }
             ],
             "Python": [
@@ -619,7 +624,7 @@
                     {
                         "name": "GemWallet",
                         "link": "https://gemwallet.app/docs/user-guide/introduction",
-                        "description": "GemWallet is the bridge between the blockchain (XRPL) and fast payments over the internet."
+                        "description": "GemWallet is the web3 between the blockchain (XRPL) and your web browser."
                     },
                     {
                         "name": "Solo Wallet",
