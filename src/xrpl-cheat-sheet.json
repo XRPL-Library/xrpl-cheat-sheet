@@ -624,7 +624,7 @@
                     {
                         "name": "GemWallet",
                         "link": "https://gemwallet.app/docs/user-guide/introduction",
-                        "description": "GemWallet is the web3 between the blockchain (XRPL) and your web browser."
+                        "description": "GemWallet is the web3 bridge between the blockchain (XRPL) and your web browser."
                     },
                     {
                         "name": "Solo Wallet",
