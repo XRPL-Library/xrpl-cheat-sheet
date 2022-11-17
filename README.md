@@ -420,7 +420,7 @@ Name | Description
 Name | Description 
  --- | --- 
 <a href="https://xumm.app/" target="_blank">XUMM</a> | A non custodial wallet with superpowers for the XRP Ledger.
-<a href="https://gemwallet.app/docs/user-guide/introduction" target="_blank">GemWallet</a> | GemWallet is the web3 between the blockchain (XRPL) and your web browser.
+<a href="https://gemwallet.app/docs/user-guide/introduction" target="_blank">GemWallet</a> | GemWallet is the web3 bridge between the blockchain (XRPL) and your web browser.
 <a href="https://www.sologenic.com/ecosystem/solo-wallet" target="_blank">Solo Wallet</a> | SOLO Decentralized Exchange & Wallet
 
 
