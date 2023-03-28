@@ -510,6 +510,11 @@
                 "link": "https://xrpaddress.info/",
                 "description": "Encode and decode normal addresses with tags and X-addresses."
             },
+            {
+                "name": "xrp-ledger.toml Editor",
+                "link": "https://dallipay.com/xrpltomleditor/",
+                "description": "Create, view or edit an xrp-ledger.toml file."
+            },
             []
         ]
     },
