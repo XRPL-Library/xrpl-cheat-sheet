@@ -397,7 +397,7 @@ Name | Description
 Name | Description 
  --- | --- 
 <a href="https://paystring.org/" target="_blank">PayString</a> | A better way for your users to send and receive payments.
-<a href="https://github.com/radynamics/CryptoIso20022Interop" target="_blank">CryptoIso20022 Interop</a> | Send / receive XRPL payments using ISO 20022 formats
+<a href="https://www.dallipay.com/" target="_blank">DalliPay</a> | Send / receive XRPL payments using ISO 20022 formats
 
 
 ---
