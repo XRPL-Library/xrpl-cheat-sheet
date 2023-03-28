@@ -601,8 +601,8 @@
                 "description": "A better way for your users to send and receive payments."
             },
             {
-                "name": "CryptoIso20022 Interop",
-                "link": "https://github.com/radynamics/CryptoIso20022Interop",
+                "name": "DalliPay",
+                "link": "https://www.dallipay.com/",
                 "description": "Send / receive XRPL payments using ISO 20022 formats"
             }
         ],
