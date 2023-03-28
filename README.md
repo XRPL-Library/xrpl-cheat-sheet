@@ -289,6 +289,7 @@ Name | Description
 <a href="https://runkit.com/wietsewind/get-gh-xrpl-tx-types" target="_blank">Scrape xrpl.org pages to determine the tx types & schema</a> | Get GH XRPL Tx Types
 <a href="https://github.com/emschwartz/ripple-donate-widget" target="_blank">Ripple checkout - A simple widget code to pay with XRP</a> | An embeddable widget for paying with Ripple.
 <a href="https://xrpaddress.info/" target="_blank">X-Address Information</a> | Encode and decode normal addresses with tags and X-addresses.
+<a href="https://dallipay.com/xrpltomleditor/" target="_blank">xrp-ledger.toml Editor</a> | Create, view or edit an xrp-ledger.toml file.
 
 
 ---
