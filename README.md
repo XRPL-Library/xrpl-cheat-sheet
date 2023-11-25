@@ -65,6 +65,7 @@ Name | Description
 <a href="https://www.theworldexchange.net/" target="_blank">The World Exchange</a> | Trade, Issue, and Send Directly on the XRPL Network
 
 
+
 ---
 
 ###  ♦ Validators 
@@ -84,6 +85,7 @@ Name | Description
 <a href="https://xpmarket.io" target="_blank">XPMarket</a> | XRPL asset management tool.
 <a href="https://xrpl.services/tokens/s" target="_blank">XRPL Services</a> | Services related to XRPL.
 <a href="https://onthedex.live/" target="_blank">OnTheDex.live</a> | Explore any traded token on the XRP Ledger.
+<a href="https://xrpl.to/" target="_blank">xrpl.to</a> | Discover the latest XRPL DEX token prices and charts, ranked by 24-hour trading volume.
 
 
 ---
