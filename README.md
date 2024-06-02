@@ -290,7 +290,7 @@ Name | Description
 <a href="https://github.com/emschwartz/ripple-donate-widget" target="_blank">Ripple checkout - A simple widget code to pay with XRP</a> | An embeddable widget for paying with Ripple.
 <a href="https://xrpaddress.info/" target="_blank">X-Address Information</a> | Encode and decode normal addresses with tags and X-addresses.
 <a href="https://dallipay.com/xrpltomleditor/" target="_blank">xrp-ledger.toml Editor</a> | Create, view or edit an xrp-ledger.toml file.
-
+<a href="https://x.com/RocKer92302798/status/1764183970462273869" target="_blank">React/Next Wallet Connect Template</a> | A wallet connect template made on react/next.js which supports all 3 major wallets - Xaman, gem and crossmark! Comes in built with JWT.
 
 ---
 
@@ -307,14 +307,13 @@ Name | Description
 <a href="https://twitter.com/xrp1ntel" target="_blank">XRPL Intelligence</a> | XRP Intelligence - By @devnullprod
 <a href="https://twitter.com/CasinoCoinAlert" target="_blank">CSC Alerts</a> | CasinoCoin (CSC) price swing alerts
 
-
 ---
 
 ###  ♦ Discord 
 
 Name | Description 
  --- | --- 
-
+<a href="https://x.com/RocKer92302798/status/1795790162368123091" target="_blank">Discord Amm Ticker</a> | An amm pool tracker for your discord server! - By @Aaditya-T
 
 ---
 
