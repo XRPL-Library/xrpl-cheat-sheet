@@ -542,7 +542,13 @@
                 "description": "CasinoCoin (CSC) price swing alerts"
             }
         ],
-        "Discord": [],
+        "Discord": [
+            {
+                "name": "XRPL Buddy",
+                "link": "https://xrpl.buddy.cat",
+                "description": "Public Bot for interacting with XRPL easily from inside Discord"
+            }
+        ],
         "AMM": []
     },
     "Hooks": {
