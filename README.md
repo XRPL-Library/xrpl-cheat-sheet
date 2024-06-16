@@ -314,6 +314,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
+<a href="https://xrpl.buddy.cat" target="_blank">XRPL Buddy</a> | Public Bot for interacting with XRPL easily from inside Discord
 
 
 ---
