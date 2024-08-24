@@ -597,7 +597,13 @@
                 "description": "A Minecraft Tokenization Project Built on the XRP Ledger"
             }
         ],
-        "Charity": [],
+        "Charity": [
+            {
+                "name": "XRPL Dogon Dojo",
+                "link": "https://dogoninu.com/",
+                "description": "Project to expand a school, and fund a Ripple validator by the Students for project R.A.Y. Ripple Africa Youth."
+            {
+        ],
         "Browser Extensions": [
             {
                 "name": "XPT - XRPL Portfolio Tracker",
